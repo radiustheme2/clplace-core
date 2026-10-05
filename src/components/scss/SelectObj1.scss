@@ -1,0 +1,24 @@
+.rttpg-components-popover,
+.rttpg-panel-control-wrapper {
+	.rttpg-control-field {
+		&.rttpg-cf-bg-property {
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 0 !important;
+
+			select {
+				width: 130px;
+				padding-top: 3px;
+				padding-bottom: 3px;
+				min-height: 30px !important;
+				height: 30px !important;
+			}
+
+			.rttpg-cf-body {
+				> * {
+					margin-bottom: 0 !important;
+				}
+			}
+		}
+	}
+}

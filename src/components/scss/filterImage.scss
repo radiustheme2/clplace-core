@@ -1,0 +1,12 @@
+.rttpg-components-popover .rttpg-filter-image-content,
+.rttpg-panel-control-wrapper .rttpg-filter-image-content {
+	min-width: 230px;
+	padding: 5px 6px;
+}
+
+.rttpg-components-popover .rttpg-control-field.rttpg-cf-filter-image-wrap,
+.rttpg-panel-control-wrapper .rttpg-control-field.rttpg-cf-filter-image-wrap {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}

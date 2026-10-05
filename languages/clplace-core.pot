@@ -1,0 +1,5026 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clplace Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-21 07:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.3; wp-6.9.4; php-8.3.11\n"
+"X-Domain: clplace-core"
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:718
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:791
+msgid " Background"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:657
+msgid " Count Text"
+msgstr ""
+
+#. %s template
+#: app/Helper/Fns.php:61
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#. %s is the number of views.
+#: templates/elementor/listing-categories-filter/view-1.php:266
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/Elementor/Widgets/Team.php:133 app/Elementor/Widgets/Team.php:134
+msgid "+121 456 8976"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:55
+msgid "-- Extra Large Columns --"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:89
+msgid "-- Large Columns --"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:678
+msgid "0ms"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:714
+#: app/Elementor/Widgets/ListingLocationsSlider.php:730
+#: app/Elementor/Widgets/ListingLocationsSlider.php:746
+#: app/Elementor/Widgets/ListingLocationsSlider.php:761
+#: app/Elementor/Widgets/ListingLocationsSlider.php:776
+#: app/Elementor/Widgets/ListingLocationsSlider.php:791
+#: app/Elementor/Widgets/Testimonial.php:445
+#: app/Elementor/Widgets/Testimonial.php:464
+#: app/Elementor/Widgets/Testimonial.php:483
+#: app/Elementor/Widgets/Testimonial.php:501
+#: app/Elementor/Widgets/Testimonial.php:519
+#: app/Elementor/Widgets/Testimonial.php:537
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:749
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:765
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:781
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:796
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:811
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:826
+msgid "1"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:132
+msgid "1 Columns"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:688
+msgid "1000ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:679
+msgid "100ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:689
+msgid "1100ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:690
+msgid "1200ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:691
+msgid "1300ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:692
+msgid "1400ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:693
+msgid "1500ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:694
+msgid "1600ms"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:715
+#: app/Elementor/Widgets/ListingLocationsSlider.php:731
+#: app/Elementor/Widgets/ListingLocationsSlider.php:747
+#: app/Elementor/Widgets/ListingLocationsSlider.php:762
+#: app/Elementor/Widgets/ListingLocationsSlider.php:777
+#: app/Elementor/Widgets/ListingLocationsSlider.php:792
+#: app/Elementor/Widgets/Testimonial.php:446
+#: app/Elementor/Widgets/Testimonial.php:465
+#: app/Elementor/Widgets/Testimonial.php:484
+#: app/Elementor/Widgets/Testimonial.php:502
+#: app/Elementor/Widgets/Testimonial.php:520
+#: app/Elementor/Widgets/Testimonial.php:538
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:750
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:766
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:782
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:797
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:812
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:827
+msgid "2"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:131
+msgid "2 Columns"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:680
+msgid "200ms"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:716
+#: app/Elementor/Widgets/ListingLocationsSlider.php:732
+#: app/Elementor/Widgets/ListingLocationsSlider.php:748
+#: app/Elementor/Widgets/ListingLocationsSlider.php:763
+#: app/Elementor/Widgets/ListingLocationsSlider.php:778
+#: app/Elementor/Widgets/ListingLocationsSlider.php:793
+#: app/Elementor/Widgets/Testimonial.php:447
+#: app/Elementor/Widgets/Testimonial.php:466
+#: app/Elementor/Widgets/Testimonial.php:485
+#: app/Elementor/Widgets/Testimonial.php:503
+#: app/Elementor/Widgets/Testimonial.php:521
+#: app/Elementor/Widgets/Testimonial.php:539
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:751
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:767
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:783
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:798
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:813
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:828
+msgid "3"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:130
+msgid "3 Columns"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:681
+msgid "300ms"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:717
+#: app/Elementor/Widgets/ListingLocationsSlider.php:733
+#: app/Elementor/Widgets/ListingLocationsSlider.php:749
+#: app/Elementor/Widgets/ListingLocationsSlider.php:764
+#: app/Elementor/Widgets/ListingLocationsSlider.php:779
+#: app/Elementor/Widgets/ListingLocationsSlider.php:794
+#: app/Elementor/Widgets/Testimonial.php:448
+#: app/Elementor/Widgets/Testimonial.php:467
+#: app/Elementor/Widgets/Testimonial.php:486
+#: app/Elementor/Widgets/Testimonial.php:504
+#: app/Elementor/Widgets/Testimonial.php:522
+#: app/Elementor/Widgets/Testimonial.php:540
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:752
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:768
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:784
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:799
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:814
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:829
+msgid "4"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:129
+msgid "4 Columns"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:682
+msgid "400ms"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:26
+msgid "404 Page"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:718
+#: app/Elementor/Widgets/ListingLocationsSlider.php:734
+#: app/Elementor/Widgets/ListingLocationsSlider.php:750
+#: app/Elementor/Widgets/ListingLocationsSlider.php:765
+#: app/Elementor/Widgets/ListingLocationsSlider.php:780
+#: app/Elementor/Widgets/ListingLocationsSlider.php:795
+#: app/Elementor/Widgets/Testimonial.php:449
+#: app/Elementor/Widgets/Testimonial.php:468
+#: app/Elementor/Widgets/Testimonial.php:487
+#: app/Elementor/Widgets/Testimonial.php:505
+#: app/Elementor/Widgets/Testimonial.php:523
+#: app/Elementor/Widgets/Testimonial.php:541
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:753
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:769
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:785
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:800
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:815
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:830
+msgid "5"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:683
+msgid "500ms"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:719
+#: app/Elementor/Widgets/ListingLocationsSlider.php:735
+#: app/Elementor/Widgets/Testimonial.php:450
+#: app/Elementor/Widgets/Testimonial.php:469
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:754
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:770
+msgid "6"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:684
+msgid "600ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:685
+msgid "700ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:686
+msgid "800ms"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:687
+msgid "900ms"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:22
+msgid "A Search Feature"
+msgstr ""
+
+#: app/Elementor/Widgets/AboutWidget.php:25
+msgid "About Widget"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:307
+msgid "Absolute Center"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:450
+#: app/Elementor/Widgets/WritingTitle.php:467
+msgid "Absolute Position"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:1268
+#: app/Elementor/Widgets/ContactBox.php:1290
+msgid "Active Item"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1230
+msgid "Add Images"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:65
+msgid "Add New"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:66
+msgid "Add New Header or Footer"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:233
+msgid "Add Sharing Platforms"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1474
+msgid "Additional Options"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:727
+msgid "Additional Settings"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:49
+msgid "Address"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:297
+msgid "Advanced Custom Field"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:100
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:25
+msgid "Advanced Search"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:435 app/Elementor/Widgets/Team.php:222
+#: app/Elementor/Widgets/Slider.php:1165
+#: app/Elementor/Widgets/ListingCategoryBox.php:142
+#: app/Elementor/Widgets/Title.php:96
+#: app/Elementor/Widgets/ListingLocationsSlider.php:122
+#: app/Elementor/Widgets/ImageBox.php:130
+#: app/Elementor/Widgets/SocialShare.php:155
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:139
+#: app/Elementor/Widgets/VideoIcon.php:134
+#: app/Elementor/Widgets/PricingTable.php:316
+#: app/Elementor/Widgets/SocialIcon.php:133
+#: app/Elementor/Widgets/SocialIcon.php:239
+#: app/Elementor/Widgets/SiteMenu.php:97
+#: app/Elementor/Widgets/MenuIcons.php:111
+#: app/Elementor/Widgets/SiteLogo.php:74
+#: app/Elementor/Widgets/AboutWidget.php:129
+#: app/Elementor/Widgets/WritingTitle.php:97
+msgid "Alignment"
+msgstr ""
+
+#. %s is the post type name (e.g., Posts).
+#: app/Helper/FnsBuilder.php:59
+#, php-format
+msgid "All %s Archive"
+msgstr ""
+
+#. %s is the post type name (e.g., Posts).
+#: app/Helper/FnsBuilder.php:57
+#, php-format
+msgid "All %s Single"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:39
+msgid "All Archives"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:267
+msgid "All Listing Access"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:53
+msgid "All Pages"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:38
+msgid "All Singulars"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:70
+msgid "All Templates"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:229
+msgid "Always Visible"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:367
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:316
+#: app/Elementor/Widgets/AboutWidget.php:263
+#: app/Elementor/Widgets/WritingTitle.php:384
+msgid "Angle-right"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:55
+msgid "Animated Image"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:230
+msgid "Animated Image List"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:354
+msgid "Animation Button"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:196
+msgid "Animation Duration"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:60
+msgid "Animation images"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1647
+msgid "Animation Overflow"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:668
+msgid "animation scale x"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:669
+msgid "animation scale Y"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1637
+msgid "Animation Speed"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:55
+msgid "Animation Style # 1"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:56
+msgid "Animation Style # 2"
+msgstr ""
+
+#: app/Elementor/Widgets/AboutWidget.php:109
+msgid "App Store Icon"
+msgstr ""
+
+#: app/Elementor/Widgets/AboutWidget.php:120
+msgid "App Store Link"
+msgstr ""
+
+#: app/Widgets/About_Widget.php:84
+msgid "App Store URL"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:291
+msgid "Apps Integrated"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:25
+msgid "Archive"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:306
+msgid "Arrow"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:498
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:533
+msgid "Arrow BG Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:533
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:568
+msgid "Arrow BG Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:404 app/Elementor/Widgets/Slider.php:453
+msgid "Arrow Border"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:485
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:520
+msgid "Arrow Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:155
+msgid "Arrow Shape Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:293
+msgid "Arrow Size"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:394
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:429
+msgid "Arrow Top / Bottom"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:226
+msgid "Arrow Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:241
+msgid "Arrow X Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:276
+msgid "Arrow Y Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:369
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:318
+#: app/Elementor/Widgets/AboutWidget.php:265
+#: app/Elementor/Widgets/WritingTitle.php:386
+msgid "Arrow-right"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:519
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:554
+msgid "ArrowHover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1495
+msgid "Arrows"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1494
+msgid "Arrows and Dots"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:91 app/Elementor/Widgets/Post.php:254
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:168
+msgid "ASC"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:77 app/Widgets/Post_Widget.php:110
+#: app/Elementor/Widgets/Post.php:234
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:154
+msgid "Author"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:145
+msgid "Author Alignment"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:133
+msgid "Author Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:597
+msgid "Author Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1534
+#: app/Elementor/Widgets/ListingLocationsSlider.php:591
+#: app/Elementor/Widgets/Testimonial.php:332
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:626
+msgid "Autoplay"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:661
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:696
+msgid "Autoplay Slide Delay"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:673
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:708
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1581
+#: app/Elementor/Widgets/Testimonial.php:345
+msgid "Autoplay Speed"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:423 app/Elementor/Widgets/Slider.php:93
+#: app/Elementor/Widgets/ListingCategoryBox.php:316
+#: app/Elementor/Widgets/ListingCategoryBox.php:320
+#: app/Elementor/Widgets/ListingCategoryBox.php:369
+#: app/Elementor/Widgets/ListingCategoryBox.php:373
+#: app/Elementor/Widgets/ListingCategoryBox.php:662
+#: app/Elementor/Widgets/ListingCategoryBox.php:666
+#: app/Elementor/Widgets/ListingCategoryBox.php:704
+#: app/Elementor/Widgets/ListingCategoryBox.php:708
+#: app/Elementor/Widgets/ListingCategoryBox.php:762
+#: app/Elementor/Widgets/ListingCategoryBox.php:766
+#: app/Elementor/Widgets/ListingCategoryBox.php:827
+#: app/Elementor/Widgets/ListingCategoryBox.php:831
+#: app/Elementor/Widgets/Title.php:221 app/Elementor/Widgets/Title.php:225
+#: app/Elementor/Widgets/ListingLocationsSlider.php:325
+#: app/Elementor/Widgets/InfoBox.php:389 app/Elementor/Widgets/InfoBox.php:437
+#: app/Elementor/Widgets/InfoBox.php:631 app/Elementor/Widgets/InfoBox.php:680
+#: app/Elementor/Widgets/InfoBox.php:1046
+#: app/Elementor/Widgets/InfoBox.php:1137
+#: app/Elementor/Widgets/InfoBox.php:1196
+#: app/Elementor/Widgets/InfoBox.php:1295
+#: app/Elementor/Widgets/InfoBox.php:1326
+#: app/Elementor/Widgets/InfoBox.php:1377
+#: app/Elementor/Widgets/InfoBox.php:1393
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:427
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:497
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:411
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:544
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:562
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:714
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:787
+#: app/Elementor/Widgets/Testimonial.php:594
+#: app/Elementor/Widgets/Testimonial.php:663
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:294
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:349
+#: app/Elementor/Widgets/PricingTable.php:1088
+#: app/Elementor/Widgets/PricingTable.php:1092
+#: app/Elementor/Widgets/PricingTable.php:1146
+#: app/Elementor/Widgets/PricingTable.php:1150
+#: app/Elementor/Widgets/PricingTable.php:1266
+#: app/Elementor/Widgets/PricingTable.php:1468
+#: app/Elementor/Widgets/PricingTable.php:1471
+#: app/Elementor/Widgets/MenuIcons.php:275
+#: app/Elementor/Widgets/MenuIcons.php:279
+#: app/Elementor/Widgets/MenuIcons.php:327
+#: app/Elementor/Widgets/MenuIcons.php:331
+#: app/Elementor/Widgets/MenuIcons.php:452
+#: app/Elementor/Widgets/MenuIcons.php:456
+#: app/Elementor/Widgets/MenuIcons.php:504
+#: app/Elementor/Widgets/MenuIcons.php:508
+#: app/Elementor/Widgets/ContactBox.php:373
+#: app/Elementor/Widgets/ContactBox.php:429
+#: app/Elementor/Widgets/ContactBox.php:631
+#: app/Elementor/Widgets/ContactBox.php:680
+#: app/Elementor/Widgets/ContactBox.php:1130
+#: app/Elementor/Widgets/ContactBox.php:1221 app/Elementor/Widgets/Faq.php:312
+#: app/Elementor/Widgets/Faq.php:420 app/Elementor/Widgets/AboutWidget.php:374
+#: app/Elementor/Widgets/AboutWidget.php:444
+msgid "Background"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1536
+msgid "Background - Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:736
+msgid "Background Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:389 app/Elementor/Widgets/Slider.php:438
+#: app/Elementor/Widgets/Post.php:805
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:415
+#: app/Elementor/Widgets/ProgressBar.php:194
+#: app/Elementor/Widgets/ProgressBar.php:208
+#: app/Elementor/Widgets/Testimonial.php:598
+msgid "Background Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:845
+msgid "Background Color hover"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1533
+msgid "Background Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:134
+#: app/Elementor/Widgets/PricingTable.php:1329
+msgid "Background on Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:88 app/Elementor/Widgets/WritingTitle.php:89
+msgid "Background Title"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:438
+#: app/Elementor/Widgets/WritingTitle.php:455
+msgid "Background Title Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:745
+msgid "Backgruond Color"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:778
+msgid "Backgruond Color Hover"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:217
+msgid "Banner Content (Breadcrumb) Visibility"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:227
+msgid "Banner Height (px)"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:207
+msgid "Banner Style"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:197
+msgid "Banner Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:180
+msgid "Bar Color"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:398
+msgid "BG Width"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:23
+msgid "Blog / Posts Page"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:487
+#: app/Elementor/Widgets/Slider.php:104 app/Elementor/Widgets/Slider.php:145
+#: app/Elementor/Widgets/Slider.php:630
+#: app/Elementor/Widgets/ListingCategoryBox.php:331
+#: app/Elementor/Widgets/ListingCategoryBox.php:677
+#: app/Elementor/Widgets/ListingCategoryBox.php:777
+#: app/Elementor/Widgets/ListingCategoryBox.php:842
+#: app/Elementor/Widgets/InfoBox.php:360 app/Elementor/Widgets/InfoBox.php:874
+#: app/Elementor/Widgets/InfoBox.php:1085
+#: app/Elementor/Widgets/InfoBox.php:1148
+#: app/Elementor/Widgets/InfoBox.php:1346
+#: app/Elementor/Widgets/InfoBox.php:1409
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:457
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:505
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:425
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:580
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:743
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:803
+#: app/Elementor/Widgets/Testimonial.php:575
+#: app/Elementor/Widgets/Testimonial.php:744
+#: app/Elementor/Widgets/SocialShare.php:187
+#: app/Elementor/Widgets/PricingTable.php:835
+#: app/Elementor/Widgets/PricingTable.php:1299
+#: app/Elementor/Widgets/PricingTable.php:1361
+#: app/Elementor/Widgets/PricingTable.php:1483
+#: app/Elementor/Widgets/SocialIcon.php:106
+#: app/Elementor/Widgets/ContactBox.php:388
+#: app/Elementor/Widgets/ContactBox.php:447
+#: app/Elementor/Widgets/ContactBox.php:1169
+#: app/Elementor/Widgets/ContactBox.php:1232
+#: app/Elementor/Widgets/ContactBox.php:1317
+#: app/Elementor/Widgets/ContactBox.php:1348 app/Elementor/Widgets/Faq.php:223
+#: app/Elementor/Widgets/Faq.php:274 app/Elementor/Widgets/Faq.php:383
+#: app/Elementor/Widgets/AboutWidget.php:404
+#: app/Elementor/Widgets/AboutWidget.php:452
+msgid "Border"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:719
+#: app/Elementor/Widgets/SocialShare.php:191
+msgid "Border Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:648
+#: app/Elementor/Widgets/PricingTable.php:1548
+msgid "Border Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:113
+msgid "Border Hover Color"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:497
+#: app/Elementor/Core/ElementorCore.php:528
+#: app/Elementor/Widgets/Slider.php:160 app/Elementor/Widgets/Slider.php:343
+#: app/Elementor/Widgets/ListingCategoryBox.php:623
+#: app/Elementor/Widgets/ListingCategoryBox.php:786
+#: app/Elementor/Widgets/ListingCategoryBox.php:851
+#: app/Elementor/Widgets/InfoBox.php:697 app/Elementor/Widgets/InfoBox.php:1097
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:466
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:432
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:518
+#: app/Elementor/Widgets/ProgressBar.php:265
+#: app/Elementor/Widgets/ProgressBar.php:280
+#: app/Elementor/Widgets/Testimonial.php:582
+#: app/Elementor/Widgets/Testimonial.php:754
+#: app/Elementor/Widgets/Testimonial.php:870
+#: app/Elementor/Widgets/ImageBox.php:187
+#: app/Elementor/Widgets/PricingTable.php:1404
+#: app/Elementor/Widgets/ContactBox.php:697
+#: app/Elementor/Widgets/ContactBox.php:1181 app/Elementor/Widgets/Faq.php:392
+#: app/Elementor/Widgets/AboutWidget.php:413
+msgid "Border Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/WritingTitle.php:172
+msgid "Border Style"
+msgstr ""
+
+#: app/Elementor/Widgets/WritingTitle.php:178
+msgid "Both"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:174
+#: app/Elementor/Widgets/ContactBox.php:165
+msgid "Bottom"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:300
+msgid "Box Alignment"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:568
+msgid "Box Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1428
+msgid "Box Margin"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1386
+msgid "Box Min Height"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1416
+msgid "Box Padding"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:273
+#: app/Elementor/Widgets/PricingTable.php:1377
+msgid "Box Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1343 app/Elementor/Widgets/Post.php:878
+#: app/Elementor/Widgets/PricingTable.php:1459
+#: app/Elementor/Widgets/MenuIcons.php:298
+#: app/Elementor/Widgets/MenuIcons.php:350
+#: app/Elementor/Widgets/MenuIcons.php:475
+#: app/Elementor/Widgets/MenuIcons.php:527
+msgid "Box Shadow"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1524
+msgid "Box Shadow Hover"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:282
+msgid "Box Size"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:556
+msgid "Box Style"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:316
+msgid "Box Vertical Position"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:159
+msgid "Box Width"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:170
+#: app/Elementor/Widgets/InfoBox.php:928
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:385
+#: app/Elementor/Widgets/MenuIcons.php:77
+#: app/Elementor/Widgets/ContactBox.php:1012
+#: app/Elementor/Widgets/AboutWidget.php:332
+msgid "Button"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1024
+msgid "Button Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1208
+msgid "Button Border Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:87
+msgid "Button Label"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1196
+msgid "Button Margin"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:735
+#: app/Elementor/Widgets/PricingTable.php:1229
+msgid "Button Padding"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1136
+msgid "Button Paralax Delay"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:47
+#: app/Elementor/Widgets/PricingTable.php:1188
+msgid "Button Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:195
+msgid "Button Size"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:712 app/Elementor/Widgets/VideoIcon.php:218
+msgid "Button Spacing"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:606
+#: app/Elementor/Widgets/InfoBox.php:992
+#: app/Elementor/Widgets/MenuIcons.php:193
+#: app/Elementor/Widgets/ContactBox.php:1076
+msgid "Button Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:59 app/Elementor/Widgets/Post.php:688
+#: app/Elementor/Widgets/VideoIcon.php:99
+#: app/Elementor/Widgets/PricingTable.php:177
+msgid "Button Text"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1221
+msgid "Button Typography"
+msgstr ""
+
+#: templates/elementor/listing-categories-filter/view-1.php:244
+msgid "by "
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:154
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:91
+msgid "By Category"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:156
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:90
+msgid "By Post ID"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:155
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:92
+msgid "By Tags"
+msgstr ""
+
+#: templates/elementor/team/view-1.php:49
+#: templates/elementor/team/view-3.php:46
+#: templates/elementor/team/view-2.php:46
+msgid "Call:"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:368
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:317
+#: app/Elementor/Widgets/AboutWidget.php:264
+#: app/Elementor/Widgets/WritingTitle.php:385
+msgid "Caret-right"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:209
+#: app/Elementor/Widgets/Testimonial.php:284
+msgid "Carousel Settings"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:106
+msgid "Category"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:151
+msgid "Category Icon / Image"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:117
+msgid "Category List"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:609
+msgid "Category Visibility"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:143 app/Elementor/Core/ElementorCore.php:151
+#: app/Elementor/Core/ElementorCore.php:216
+#: app/Elementor/Core/ElementorCore.php:305
+#: app/Elementor/Core/ElementorCore.php:443 app/Elementor/Widgets/Team.php:230
+#: app/Elementor/Widgets/Slider.php:1173
+#: app/Elementor/Widgets/ListingCategoryBox.php:150
+#: app/Elementor/Widgets/Title.php:104
+#: app/Elementor/Widgets/ListingLocationsSlider.php:130
+#: app/Elementor/Widgets/InfoBox.php:111 app/Elementor/Widgets/InfoBox.php:140
+#: app/Elementor/Widgets/InfoBox.php:199 app/Elementor/Widgets/ImageBox.php:138
+#: app/Elementor/Widgets/SocialShare.php:162
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:147
+#: app/Elementor/Widgets/VideoIcon.php:142
+#: app/Elementor/Widgets/VideoIcon.php:166
+#: app/Elementor/Widgets/PricingTable.php:324
+#: app/Elementor/Widgets/SocialIcon.php:141
+#: app/Elementor/Widgets/SocialIcon.php:247
+#: app/Elementor/Widgets/SiteMenu.php:105
+#: app/Elementor/Widgets/MenuIcons.php:119
+#: app/Elementor/Widgets/ContactBox.php:102
+#: app/Elementor/Widgets/ContactBox.php:131
+#: app/Elementor/Widgets/ContactBox.php:190
+#: app/Elementor/Widgets/SiteLogo.php:82
+#: app/Elementor/Widgets/AboutWidget.php:137
+#: app/Elementor/Widgets/WritingTitle.php:105
+msgid "Center"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:170
+msgid "Center Alignment"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:636
+#: app/Elementor/Widgets/Testimonial.php:361
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:671
+msgid "Centered Slides"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:640
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:675
+msgid "Centered Slides. Default: On"
+msgstr ""
+
+#: app/Traits/SingletonTraits.php:42 app/Traits/SingletonTraits.php:51
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:365
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:314
+#: app/Elementor/Widgets/AboutWidget.php:261
+#: app/Elementor/Widgets/WritingTitle.php:382
+msgid "Check"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:366
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:315
+#: app/Elementor/Widgets/AboutWidget.php:262
+#: app/Elementor/Widgets/WritingTitle.php:383
+msgid "Check-square"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:66
+msgid "Choose Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:166
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:116
+msgid "Choose Categories"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:70
+msgid "Choose Icon"
+msgstr ""
+
+#: app/Elementor/Widgets/WritingTitle.php:154
+msgid "Choose Icons"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:84
+#: app/Elementor/Widgets/ListingLocationsSlider.php:55
+#: app/Elementor/Widgets/Testimonial.php:73
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:57
+#: app/Elementor/Widgets/PricingTable.php:86
+#: app/Elementor/Widgets/ContactForm.php:39
+msgid "Choose Image"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:81
+msgid "Choose Layout"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:82
+msgid "Choose layout"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:39
+msgid "Choose Menu"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:102
+msgid "Choose Meta"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:70
+msgid "Choose Options"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:86
+msgid "Choose posts or pages"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:178
+#: app/Elementor/Core/ElementorCore.php:183
+msgid "Choose Quote Image"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:181
+msgid "Choose Tags"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:101
+msgid "Choose Titles"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:225
+msgid "Choose Toggle Icon"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:389
+msgid "Circle BG"
+msgstr ""
+
+#. Name of the plugin
+msgid "Clplace Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Clplace Theme Core Plugin"
+msgstr ""
+
+#: app/Widgets/About_Widget.php:18
+msgid "Clplace: About"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:20
+msgid "Clplace: Advanced Search"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:20
+msgid "Clplace: Blog Post"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:22
+msgid "Clplace: Contact"
+msgstr ""
+
+#: app/Widgets/Search_Widget.php:19
+msgid "Clplace: Search Widget"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:93
+msgid "col-lg-2"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:97
+msgid "col-lg-3"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:101
+msgid "col-lg-4"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:105
+msgid "col-lg-5"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:109
+msgid "col-lg-6"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:113
+msgid "col-lg-7"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:117
+msgid "col-lg-8"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:59
+msgid "col-xl-2"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:63
+msgid "col-xl-3"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:67
+msgid "col-xl-4"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:71
+msgid "col-xl-5"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:75
+msgid "col-xl-6"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:79
+msgid "col-xl-7"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:83
+msgid "col-xl-8"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:82 app/Elementor/Widgets/Slider.php:375
+#: app/Elementor/Widgets/Slider.php:424 app/Elementor/Widgets/Slider.php:517
+#: app/Elementor/Widgets/ListingCategoryBox.php:652
+#: app/Elementor/Widgets/ListingCategoryBox.php:694
+#: app/Elementor/Widgets/Title.php:154 app/Elementor/Widgets/Title.php:262
+#: app/Elementor/Widgets/Title.php:329 app/Elementor/Widgets/Title.php:512
+#: app/Elementor/Widgets/InfoBox.php:377 app/Elementor/Widgets/InfoBox.php:424
+#: app/Elementor/Widgets/InfoBox.php:490 app/Elementor/Widgets/InfoBox.php:620
+#: app/Elementor/Widgets/InfoBox.php:669 app/Elementor/Widgets/InfoBox.php:782
+#: app/Elementor/Widgets/InfoBox.php:891 app/Elementor/Widgets/InfoBox.php:911
+#: app/Elementor/Widgets/InfoBox.php:1016
+#: app/Elementor/Widgets/InfoBox.php:1122
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:223
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:278
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:403
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:485
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:602
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:643
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:693
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:775
+#: app/Elementor/Widgets/ProgressBar.php:305
+#: app/Elementor/Widgets/Testimonial.php:619
+#: app/Elementor/Widgets/Testimonial.php:789
+#: app/Elementor/Widgets/Testimonial.php:896
+#: app/Elementor/Widgets/SocialShare.php:177
+#: app/Elementor/Widgets/SocialShare.php:264
+#: app/Elementor/Widgets/PricingTable.php:384
+#: app/Elementor/Widgets/PricingTable.php:733
+#: app/Elementor/Widgets/PricingTable.php:852
+#: app/Elementor/Widgets/PricingTable.php:926
+#: app/Elementor/Widgets/PricingTable.php:1074
+#: app/Elementor/Widgets/PricingTable.php:1255
+#: app/Elementor/Widgets/SocialIcon.php:274
+#: app/Elementor/Widgets/MenuIcons.php:264
+#: app/Elementor/Widgets/MenuIcons.php:316
+#: app/Elementor/Widgets/MenuIcons.php:441
+#: app/Elementor/Widgets/MenuIcons.php:493
+#: app/Elementor/Widgets/ContactBox.php:361
+#: app/Elementor/Widgets/ContactBox.php:416
+#: app/Elementor/Widgets/ContactBox.php:490
+#: app/Elementor/Widgets/ContactBox.php:620
+#: app/Elementor/Widgets/ContactBox.php:669
+#: app/Elementor/Widgets/ContactBox.php:782
+#: app/Elementor/Widgets/ContactBox.php:882
+#: app/Elementor/Widgets/ContactBox.php:902
+#: app/Elementor/Widgets/ContactBox.php:1100
+#: app/Elementor/Widgets/ContactBox.php:1206 app/Elementor/Widgets/Faq.php:245
+#: app/Elementor/Widgets/SiteLogo.php:144
+#: app/Elementor/Widgets/AboutWidget.php:170
+#: app/Elementor/Widgets/AboutWidget.php:225
+#: app/Elementor/Widgets/AboutWidget.php:350
+#: app/Elementor/Widgets/AboutWidget.php:432
+#: app/Elementor/Widgets/WritingTitle.php:217
+#: app/Elementor/Widgets/WritingTitle.php:279
+#: app/Elementor/Widgets/WritingTitle.php:346
+#: app/Elementor/Widgets/WritingTitle.php:529
+msgid "Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:273
+#: app/Elementor/Widgets/WritingTitle.php:290
+msgid "Color 2"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:123
+#: app/Elementor/Widgets/PricingTable.php:766
+#: app/Elementor/Widgets/PricingTable.php:960
+#: app/Elementor/Widgets/PricingTable.php:1132
+#: app/Elementor/Widgets/PricingTable.php:1318
+msgid "Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:214
+#: app/Elementor/Widgets/SiteMenu.php:72
+msgid "Column"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:121
+msgid "Column option works only for the footer widgets."
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:222
+#: app/Elementor/Widgets/SiteMenu.php:80
+msgid "Column Reverse"
+msgstr ""
+
+#: app/Modules/WidgetOverwrite.php:49
+msgid "Column:"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:633
+msgid "Comment Visibility"
+msgstr ""
+
+#. %s is the number of comments.
+#: templates/elementor/post/view-4.php:32
+#: templates/elementor/post/view-1.php:31
+#: templates/elementor/post/view-3.php:31
+#: templates/elementor/post/view-2.php:31
+#, php-format
+msgid "Comment: %s"
+msgid_plural "Comments: %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/Elementor/Widgets/Title.php:572
+#: app/Elementor/Widgets/WritingTitle.php:589
+msgid "Common Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:735
+msgid "Common Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:355
+msgid "Company / Designation Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:391
+msgid "Company Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:111
+msgid "Company Link"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:113
+msgid "Company link"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:100
+msgid "Company Name"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:371
+msgid "Company Spacing"
+msgstr ""
+
+#: app/Widgets/About_Widget.php:77
+msgid ""
+"Conditionally display the light or dark logo based on the chosen footer "
+"style; refrain from preselecting any logo. "
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:32
+msgid "Contact"
+msgstr ""
+
+#: app/Elementor/Widgets/ContactBox.php:25
+#: app/Elementor/Widgets/ContactBox.php:1250
+msgid "Contact Box"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:422
+msgid "Contact Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ContactForm.php:21
+msgid "Contact Form"
+msgstr ""
+
+#: app/Elementor/Widgets/ContactBox.php:919
+msgid "Contact List"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:406
+msgid "Contact Style"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:118
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:635
+#: app/Elementor/Widgets/Testimonial.php:109
+#: app/Elementor/Widgets/Testimonial.php:781 app/Elementor/Widgets/Faq.php:72
+msgid "Content"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:897
+msgid "Content Box Padding"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:507
+msgid "Content Color"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:338
+#: app/Elementor/Widgets/Slider.php:1312
+msgid "Content Padding"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:51
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:59
+msgid "Content Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:188
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:205
+msgid "Content Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:497
+#: app/Elementor/Widgets/ListingCategoryBox.php:570
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:330
+msgid "Count Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:206
+#: app/Elementor/Widgets/ListingLocationsSlider.php:172
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:189
+msgid "Count Display"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:516
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:385
+msgid "Count Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:110
+#: app/Elementor/Widgets/ListingLocationsSlider.php:77
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:94
+msgid "Count label"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:266
+#: app/Elementor/Widgets/ListingLocationsSlider.php:295
+msgid "Count Label Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:229
+msgid "Count Label Margin"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:222
+msgid "Count Label Typo"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:472
+msgid "Count Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:480
+#: app/Elementor/Widgets/ListingCategoryBox.php:540
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:267
+msgid "Count Typo"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:384
+msgid "Counter Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:412
+msgid "Creative"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:221
+#: app/Elementor/Widgets/ContactBox.php:212
+msgid "CSS Clasess"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:163
+msgid "Css class"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:754 app/Elementor/Widgets/Slider.php:891
+#: app/Elementor/Widgets/Slider.php:1027 app/Elementor/Widgets/Post.php:77
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:279
+#: app/Elementor/Widgets/Testimonial.php:228
+msgid "Custom"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:285
+msgid "Custom Map Setup"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:128
+msgid "Custom Sidebar"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:87
+msgid "Danger"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:192
+msgid "Dark Color"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:247
+msgid "Dark Footer"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:1259
+msgid "Dashed Line Color"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:1236
+msgid "Dashed Line Height"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:76 app/Widgets/Post_Widget.php:114
+#: app/Elementor/Widgets/Post.php:232
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:152
+msgid "Date"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:621
+msgid "Date Visibility"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:145
+#: app/Elementor/Core/ElementorCore.php:149
+#: app/Elementor/Core/ElementorCore.php:388
+#: app/Elementor/Widgets/Slider.php:753 app/Elementor/Widgets/Slider.php:890
+#: app/Elementor/Widgets/Slider.php:1026
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:71
+#: app/Elementor/Widgets/Post.php:76
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:278
+#: app/Elementor/Widgets/ProgressBar.php:83
+#: app/Elementor/Widgets/Testimonial.php:227
+#: app/Elementor/Widgets/VideoIcon.php:164
+#: app/Elementor/Widgets/SiteMenu.php:54 app/Elementor/Widgets/SiteLogo.php:42
+msgid "Default"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:96
+#: app/Controllers/PostMetaController.php:103
+#: app/Controllers/PostMetaController.php:113
+#: app/Controllers/PostMetaController.php:120
+#: app/Controllers/PostMetaController.php:137
+#: app/Controllers/PostMetaController.php:147
+#: app/Controllers/PostMetaController.php:158
+#: app/Controllers/PostMetaController.php:168
+#: app/Controllers/PostMetaController.php:180
+#: app/Controllers/PostMetaController.php:190
+#: app/Controllers/PostMetaController.php:200
+#: app/Controllers/PostMetaController.php:210
+#: app/Controllers/PostMetaController.php:220
+#: app/Controllers/PostMetaController.php:235
+#: app/Controllers/PostMetaController.php:245
+msgid "Default from customizer"
+msgstr ""
+
+#: app/Helpers.php:256 app/Abstracts/ElementorBase.php:162
+msgid "Default Image Size"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:44
+msgid "Default Pages"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:92 app/Elementor/Widgets/Post.php:255
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:169
+msgid "DESC"
+msgstr ""
+
+#: app/Widgets/About_Widget.php:80
+#: app/Elementor/Widgets/ListingCategoryBox.php:120
+#: app/Elementor/Widgets/Title.php:79 app/Elementor/Widgets/InfoBox.php:820
+#: app/Elementor/Widgets/InfoBox.php:828
+#: app/Elementor/Widgets/ContactForm.php:65
+#: app/Elementor/Widgets/ContactBox.php:820
+#: app/Elementor/Widgets/ContactBox.php:828
+#: app/Elementor/Widgets/AboutWidget.php:67
+#: app/Elementor/Widgets/WritingTitle.php:80
+msgid "Description"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:590
+msgid "Description Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:311
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:260
+#: app/Elementor/Widgets/AboutWidget.php:207
+#: app/Elementor/Widgets/WritingTitle.php:328
+msgid "Description Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:532
+msgid "Description Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:208
+msgid "Design Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:92
+#: app/Elementor/Widgets/Testimonial.php:917
+#: app/Elementor/Widgets/Testimonial.php:925
+#: app/Elementor/Widgets/Testimonial.php:935
+msgid "Designation"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:340
+msgid "Designation Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:320
+msgid "Designation Spacing"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:304
+msgid "Designation Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:727
+#: app/Elementor/Widgets/Testimonial.php:461
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:762
+msgid "Desktops: > 1200px"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:711
+#: app/Elementor/Widgets/Testimonial.php:442
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:746
+msgid "Desktops: > 1600px"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:743
+#: app/Elementor/Widgets/Testimonial.php:480
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:778
+msgid "Desktops: > 992px"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1518
+#: app/Elementor/Widgets/SocialIcon.php:210
+#: app/Elementor/Widgets/SiteMenu.php:68
+msgid "Direction"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:167
+#: app/Elementor/Core/ElementorCore.php:202
+#: app/Elementor/Core/ElementorCore.php:359
+#: app/Elementor/Widgets/Slider.php:1357
+msgid "Disable"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:50
+msgid "Display"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:108
+msgid "Display Percentage"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:22
+msgid "Displays Blog Post"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:24 app/Widgets/About_Widget.php:20
+msgid "Displays Contact Info"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:468 app/Elementor/Widgets/Slider.php:1496
+msgid "Dots"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:274
+msgid "Dropdown Width"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:239
+msgid "Dropdown wrap background"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:102
+msgid "E.g. Eco Builders"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:80
+msgid "E.g. John Doe"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:91
+msgid "E.g. Marketing Manager"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:144
+msgid "E.g. Thumb Label"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:152
+msgid "e.g. Web Designer"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:103
+msgid "Eco Builders"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:68
+msgid "Edit Template"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1505
+msgid "Effect"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:407
+msgid "Effects"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:166
+#: app/Elementor/Core/ElementorCore.php:358
+#: app/Elementor/Widgets/Slider.php:1356
+msgid "Enable"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1354
+msgid "Enable Galelry Thumb"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:595
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:630
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:101
+msgid "Enable or disable icon. Default: Off"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:201
+msgid "Enable to Footer"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:200
+msgid "Enable to Header"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:167
+msgid "End"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:64
+msgid "Enter"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:101
+msgid "Enter button text"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:94
+#: app/Elementor/Widgets/Testimonial.php:111
+msgid "Enter Designation"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:85
+msgid "Enter Name"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:142
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:69
+msgid "Enter number of post to show."
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:79
+msgid "Enter number of post word to show."
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:78
+msgid "Enter Post Excerpt Limit"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:98
+msgid "Enter post id by comma (,) separator."
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:196
+msgid "Enter post IDs"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:141
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:68
+msgid "Enter Post Limit"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:211
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:132
+msgid "Enter Post offset"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:198
+msgid "Enter the post IDs separated by comma"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:222
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:143
+msgid "Enter the post IDs separated by comma for exclude"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:217
+msgid "Enter the text to show before icons."
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:70
+msgid "Enter your title"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:90
+msgid "Enter your URL"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:37
+msgid "Entire Website"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:469
+msgid "Excerpt Limit"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:492
+msgid "Excerpt Spacing"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:440
+msgid "Excerpt Style"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:935 app/Elementor/Widgets/Post.php:448
+#: app/Elementor/Widgets/ContactBox.php:1019
+msgid "Excerpt Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:219
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:140
+msgid "Exclude posts"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:103
+msgid "Exclude Products"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:164
+msgid "Extra class for css, if need"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:43 app/Elementor/Widgets/Team.php:188
+msgid "Facebook"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1510
+#: app/Elementor/Widgets/Testimonial.php:411
+msgid "Fade"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:24
+msgid "Faq"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:44 app/Elementor/Widgets/Faq.php:51
+msgid "Faq List"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:80
+msgid "Faq Title 1"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:84
+msgid "Faq Title 2"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:701
+msgid "Feature Badge Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:262
+#: app/Elementor/Widgets/PricingTable.php:883
+#: app/Elementor/Widgets/ContactBox.php:998
+msgid "Feature List"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:797
+msgid "Feature List Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:202
+msgid "Feature List Title"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:214
+#: app/Elementor/Widgets/PricingTable.php:844
+msgid "Feature Title"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:134
+msgid "Featured Text"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:55
+msgid "Flex"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:56
+msgid "Flex Inline"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:274
+msgid "Float"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:43
+msgid "Follow Current Element"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:42
+msgid "Follow Main Wrapper"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:38
+msgid "Follow Parent Element"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:70
+msgid "Follow with Mouse"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:793
+msgid "Font Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:834
+msgid "Font Color hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:303
+msgid "Font Size"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:230
+msgid "Fontello Icons"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:72
+#: app/Elementor/Core/ElementorCore.php:137
+msgid "Footer"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:232
+msgid "Footer Layout"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:242
+msgid "Footer Schema"
+msgstr ""
+
+#: templates/elementor/listing-categories-filter/view-1.php:141
+msgid "For"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:279
+msgid "Free / Pro Ads"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:153
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:89
+msgid "From all recent post"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:22
+msgid "Front Page"
+msgstr ""
+
+#: app/Helpers.php:260 app/Abstracts/ElementorBase.php:166
+msgid "Full Size"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:104
+#: app/Controllers/PostMetaController.php:160
+msgid "Full Width"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:565
+msgid "Galelry Border Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:543
+msgid "Gallery Items Height"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:581
+msgid "Gallery Padding"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:531
+msgid "Gallery Slider Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:596
+msgid "Gallery Y Position"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:493
+#: app/Elementor/Widgets/SocialIcon.php:285
+msgid "Gap"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:51
+#: app/Elementor/Widgets/Title.php:50
+#: app/Elementor/Widgets/ListingLocationsSlider.php:45
+#: app/Elementor/Widgets/InfoBox.php:50
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:50
+#: app/Elementor/Widgets/Testimonial.php:53
+#: app/Elementor/Widgets/Parallax.php:30
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:47
+#: app/Elementor/Widgets/VideoIcon.php:43
+#: app/Elementor/Widgets/ContactForm.php:31
+#: app/Elementor/Widgets/SiteMenu.php:31 app/Elementor/Widgets/MenuIcons.php:39
+#: app/Elementor/Widgets/ContactBox.php:51
+#: app/Elementor/Widgets/SiteLogo.php:31
+#: app/Elementor/Widgets/AboutWidget.php:49
+#: app/Elementor/Widgets/WritingTitle.php:52
+msgid "General"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:56
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:246
+#: app/Elementor/Widgets/Testimonial.php:135
+msgid "Grid"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:74
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:276
+#: app/Elementor/Widgets/Testimonial.php:225
+msgid "Grid Column"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:87
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:295
+#: app/Elementor/Widgets/Testimonial.php:240
+msgid "Grid Column for Desktop"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:109
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:327
+#: app/Elementor/Widgets/Testimonial.php:266
+msgid "Grid Column for Mobile"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:98
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:311
+#: app/Elementor/Widgets/Testimonial.php:253
+msgid "Grid Column for Tab"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:216
+msgid "Grid Devices"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:262
+msgid "Grid Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:126 app/Elementor/Widgets/Post.php:126
+#: app/Elementor/Widgets/WritingTitle.php:127
+msgid "H1"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:127 app/Elementor/Widgets/Post.php:127
+#: app/Elementor/Widgets/WritingTitle.php:128
+msgid "H2"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:128 app/Elementor/Widgets/Post.php:128
+#: app/Elementor/Widgets/WritingTitle.php:129
+msgid "H3"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:129 app/Elementor/Widgets/Post.php:129
+#: app/Elementor/Widgets/WritingTitle.php:130
+msgid "H4"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:130 app/Elementor/Widgets/Post.php:130
+#: app/Elementor/Widgets/WritingTitle.php:131
+msgid "H5"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:131 app/Elementor/Widgets/Post.php:131
+#: app/Elementor/Widgets/WritingTitle.php:132
+msgid "H6"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:47
+msgid "Hamburg menu"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:71
+#: app/Elementor/Core/ElementorCore.php:138
+msgid "Header"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:61
+#: app/Controllers/ElmentorBuilderController.php:62
+#: app/Controllers/ElmentorBuilderController.php:63
+#: app/Controllers/ElmentorBuilderController.php:64
+msgid "Header & Footer Builder"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:52
+msgid "Header - Footer Builder Settings"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:117
+msgid "Header Style"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:216
+msgid "Header Text"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:155
+msgid "Header Width"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:315 app/Elementor/Widgets/InfoBox.php:586
+#: app/Elementor/Widgets/ProgressBar.php:236
+#: app/Elementor/Widgets/ProgressBar.php:250
+#: app/Elementor/Widgets/Testimonial.php:699
+#: app/Elementor/Widgets/ContactBox.php:306
+#: app/Elementor/Widgets/ContactBox.php:586
+msgid "Height"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1651 app/Elementor/Widgets/InfoBox.php:943
+#: app/Elementor/Widgets/Post.php:284 app/Elementor/Widgets/Post.php:456
+#: app/Elementor/Widgets/Post.php:676 app/Elementor/Widgets/ContactBox.php:1027
+msgid "Hidden"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:198
+#: app/Elementor/Widgets/ListingCategoryBox.php:209
+#: app/Elementor/Widgets/ListingLocationsSlider.php:164
+#: app/Elementor/Widgets/ListingLocationsSlider.php:175
+#: app/Elementor/Widgets/Post.php:600 app/Elementor/Widgets/Post.php:612
+#: app/Elementor/Widgets/Post.php:624 app/Elementor/Widgets/Post.php:636
+#: app/Elementor/Widgets/Post.php:648
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:179
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:468
+#: app/Elementor/Widgets/ProgressBar.php:113
+#: app/Elementor/Widgets/Testimonial.php:190
+#: app/Elementor/Widgets/Testimonial.php:296
+#: app/Elementor/Widgets/Testimonial.php:309
+#: app/Elementor/Widgets/Testimonial.php:820
+#: app/Elementor/Widgets/ImageBox.php:158
+#: app/Elementor/Widgets/ImageBox.php:170
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:181
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:192
+#: app/Elementor/Widgets/Faq.php:98
+msgid "Hide"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1369
+msgid "Hide All Content"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1522
+#: app/Elementor/Widgets/SocialShare.php:116
+msgid "Horizontal"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:160
+msgid "Horizontal Align"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:557 app/Elementor/Widgets/Slider.php:115
+#: app/Elementor/Widgets/Slider.php:417 app/Elementor/Widgets/Slider.php:640
+#: app/Elementor/Widgets/Slider.php:1427
+#: app/Elementor/Widgets/ListingCategoryBox.php:352
+#: app/Elementor/Widgets/ListingCategoryBox.php:448
+#: app/Elementor/Widgets/ListingCategoryBox.php:509
+#: app/Elementor/Widgets/ListingCategoryBox.php:583
+#: app/Elementor/Widgets/ListingCategoryBox.php:687
+#: app/Elementor/Widgets/ListingCategoryBox.php:819
+#: app/Elementor/Widgets/ListingLocationsSlider.php:278
+#: app/Elementor/Widgets/ListingLocationsSlider.php:512
+#: app/Elementor/Widgets/InfoBox.php:417 app/Elementor/Widgets/InfoBox.php:661
+#: app/Elementor/Widgets/InfoBox.php:795 app/Elementor/Widgets/InfoBox.php:904
+#: app/Elementor/Widgets/InfoBox.php:1112
+#: app/Elementor/Widgets/InfoBox.php:1370
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:478
+#: app/Elementor/Widgets/Post.php:414 app/Elementor/Widgets/Post.php:827
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:767
+#: app/Elementor/Widgets/SocialShare.php:270
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:342
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:547
+#: app/Elementor/Widgets/VideoIcon.php:277
+#: app/Elementor/Widgets/VideoIcon.php:410
+#: app/Elementor/Widgets/PricingTable.php:396
+#: app/Elementor/Widgets/PricingTable.php:467
+#: app/Elementor/Widgets/PricingTable.php:524
+#: app/Elementor/Widgets/PricingTable.php:573
+#: app/Elementor/Widgets/PricingTable.php:674
+#: app/Elementor/Widgets/PricingTable.php:758
+#: app/Elementor/Widgets/PricingTable.php:952
+#: app/Elementor/Widgets/PricingTable.php:1124
+#: app/Elementor/Widgets/PricingTable.php:1310
+#: app/Elementor/Widgets/PricingTable.php:1516
+#: app/Elementor/Widgets/SocialIcon.php:433
+#: app/Elementor/Widgets/SiteMenu.php:195
+#: app/Elementor/Widgets/MenuIcons.php:308
+#: app/Elementor/Widgets/MenuIcons.php:485
+#: app/Elementor/Widgets/ContactBox.php:409
+#: app/Elementor/Widgets/ContactBox.php:661
+#: app/Elementor/Widgets/ContactBox.php:795
+#: app/Elementor/Widgets/ContactBox.php:895
+#: app/Elementor/Widgets/ContactBox.php:1196
+#: app/Elementor/Widgets/ContactBox.php:1341
+#: app/Elementor/Widgets/AboutWidget.php:425
+msgid "Hover"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:368
+msgid "Hover Animation Color"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:1227
+msgid "Hover Border Color"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:502 app/Elementor/Widgets/InfoBox.php:802
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:621
+#: app/Elementor/Widgets/SocialShare.php:274
+#: app/Elementor/Widgets/PricingTable.php:404
+#: app/Elementor/Widgets/ContactBox.php:502
+#: app/Elementor/Widgets/ContactBox.php:802
+msgid "Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:1286
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:533
+msgid "Hover Style"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:731
+#: app/Elementor/Widgets/ContactBox.php:731
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:719
+#: app/Elementor/Widgets/PricingTable.php:189
+#: app/Elementor/Widgets/SocialIcon.php:56
+msgid "https://your-link.com"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:154 app/Elementor/Widgets/Team.php:163
+#: app/Elementor/Widgets/ListingCategoryBox.php:98
+#: app/Elementor/Widgets/InfoBox.php:258 app/Elementor/Widgets/InfoBox.php:478
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:82
+#: app/Elementor/Widgets/VideoIcon.php:71
+#: app/Elementor/Widgets/PricingTable.php:60
+#: app/Elementor/Widgets/PricingTable.php:224
+#: app/Elementor/Widgets/SocialIcon.php:41
+#: app/Elementor/Widgets/ContactBox.php:249
+#: app/Elementor/Widgets/ContactBox.php:478
+#: app/Elementor/Widgets/ContactBox.php:929 app/Elementor/Widgets/Faq.php:56
+#: app/Elementor/Widgets/Faq.php:95 app/Elementor/Widgets/Faq.php:108
+msgid "Icon"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:469
+#: app/Elementor/Widgets/ContactBox.php:469
+msgid "Icon 2"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:104
+#: app/Elementor/Widgets/ContactBox.php:95
+msgid "Icon Alignment left/right"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:265
+#: app/Elementor/Widgets/SocialIcon.php:84 app/Elementor/Widgets/Faq.php:316
+#: app/Elementor/Widgets/Faq.php:424
+msgid "Icon Background Color"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:297
+msgid "Icon Background Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:233
+#: app/Elementor/Widgets/ContactBox.php:224
+msgid "Icon Box"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:667
+msgid "Icon Box Background"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:393
+#: app/Elementor/Widgets/ContactBox.php:377
+msgid "Icon box Background"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:340
+#: app/Elementor/Widgets/ListingCategoryBox.php:385
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:310
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:365
+msgid "Icon Box Border Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:229
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:212
+msgid "Icon Box Size"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:655
+msgid "Icon Box Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:306
+#: app/Elementor/Widgets/ListingCategoryBox.php:359
+#: app/Elementor/Widgets/Title.php:165
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:284
+#: app/Elementor/Widgets/VideoIcon.php:253
+#: app/Elementor/Widgets/PricingTable.php:237
+#: app/Elementor/Widgets/SocialIcon.php:62
+#: app/Elementor/Widgets/MenuIcons.php:149
+#: app/Elementor/Widgets/ContactBox.php:950 app/Elementor/Widgets/Faq.php:294
+#: app/Elementor/Widgets/Faq.php:410 app/Elementor/Widgets/WritingTitle.php:228
+msgid "Icon Color"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:285
+msgid "Icon Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:165
+msgid "Icon Color:hover"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:195
+#: app/Elementor/Widgets/ListingLocationsSlider.php:161
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:178
+msgid "Icon Display"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:94
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:441
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:298
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:353
+#: app/Elementor/Widgets/ContactBox.php:433
+msgid "Icon Hover Box Background"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:73
+#: app/Elementor/Widgets/ContactBox.php:962
+msgid "Icon Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:250
+#: app/Elementor/Widgets/ContactBox.php:241
+msgid "Icon Image"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:125
+msgid "Icon Opened"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:381 app/Elementor/Widgets/InfoBox.php:81
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:330
+#: app/Elementor/Widgets/ContactBox.php:72 app/Elementor/Widgets/Faq.php:142
+#: app/Elementor/Widgets/AboutWidget.php:277
+#: app/Elementor/Widgets/WritingTitle.php:398
+msgid "Icon Position"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:99
+msgid "Icon Separator"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:498
+#: app/Elementor/Widgets/ListingCategoryBox.php:251
+#: app/Elementor/Widgets/InfoBox.php:268 app/Elementor/Widgets/InfoBox.php:513
+#: app/Elementor/Widgets/Testimonial.php:630
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:234
+#: app/Elementor/Widgets/ContactBox.php:259
+#: app/Elementor/Widgets/ContactBox.php:513 app/Elementor/Widgets/Faq.php:348
+#: app/Elementor/Widgets/WritingTitle.php:189
+msgid "Icon Size"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:222
+#: app/Elementor/Widgets/Faq.php:286
+msgid "Icon Style"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:241
+#: app/Elementor/Widgets/ContactBox.php:232
+msgid "Icon Text"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:95
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:79
+#: app/Elementor/Widgets/PricingTable.php:56
+msgid "Icon Type"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:66
+msgid ""
+"If you don't upload logo from the Customize this title will display as a "
+"text logo."
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:367
+msgid ""
+"If you use centered slider options then default column will not working."
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:72
+msgid "If you would like to use different color then separate word by"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:274
+#: app/Elementor/Widgets/WritingTitle.php:291
+msgid ""
+"If you would like to use different color then separate word by <span> from "
+"main title."
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:155
+#: app/Elementor/Widgets/ListingCategoryBox.php:99
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:83
+#: app/Elementor/Widgets/PricingTable.php:61
+msgid "Image"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:991
+msgid "Image / Icon Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:68
+msgid "Image 1"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:78
+msgid "Image 2"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:88
+msgid "Image 3"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:98
+msgid "Image 4"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:109
+msgid "Image 5"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:120
+msgid "Image 6"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:173
+msgid "Image Bottom Position"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:20 app/Elementor/Widgets/ImageBox.php:30
+msgid "Image Box"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:127
+msgid "Image Left Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1403
+#: app/Elementor/Widgets/VideoIcon.php:390
+msgid "Image Opacity"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1442
+#: app/Elementor/Widgets/VideoIcon.php:423
+msgid "Image Opacity Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:150
+msgid "Image Right Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:296 app/Elementor/Widgets/Post.php:308
+msgid "Image Size"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:104
+msgid "Image Top Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1285
+msgid "Image Width / Height"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1103
+msgid "Image/Icon Opacity"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1161
+msgid "Image/Icon Opacity Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1000
+msgid "Image/Icon Size"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:319
+msgid "Infinite"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1623 app/Elementor/Widgets/Slider.php:1708
+msgid "Infinite Loop"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:84
+msgid "Info"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:25 app/Elementor/Widgets/InfoBox.php:1166
+msgid "Info Box"
+msgstr ""
+
+#: app/Elementor/Widgets/ContactBox.php:941
+msgid "Info Text"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:1200
+#: app/Elementor/Widgets/InfoBox.php:1330
+#: app/Elementor/Widgets/InfoBox.php:1381
+#: app/Elementor/Widgets/InfoBox.php:1397
+msgid "Infobox Background"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:1299
+msgid "Infobox Hover Background"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:137
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:72
+msgid "Inline"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:147
+#: app/Elementor/Widgets/ProgressBar.php:296
+msgid "Inner Text"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:485
+msgid "Inside"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:48
+msgid "Instagram"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:122
+msgid "Is Active ?"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:110
+msgid "Is Featured ?"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:74 app/Elementor/Widgets/Faq.php:81
+#: app/Elementor/Widgets/Faq.php:85
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: app/Controllers/ElementorController.php:478
+msgid "Item Margin"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:81 app/Elementor/Widgets/Testimonial.php:170
+msgid "John Doe"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:61
+msgid "JOIN WITH US"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:151
+msgid "Justified"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:176
+msgid "Kent Odeldan"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:123
+msgid "Label"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:202
+msgid "Label Settings"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:79 app/Elementor/Widgets/Post.php:236
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:156
+msgid "Last modified date"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:29
+msgid "Latest Post"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:100
+#: app/Widgets/Listing_Search_Widget.php:142
+#: app/Elementor/Widgets/ListingCategoryBox.php:59
+#: app/Elementor/Widgets/ListingLocationsSlider.php:87
+#: app/Elementor/Widgets/Testimonial.php:132
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:104
+msgid "Layout"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:146
+msgid "Layout # 01"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:147
+msgid "Layout # 02"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:63
+#: app/Elementor/Widgets/ListingLocationsSlider.php:91
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:108
+msgid "Layout 01"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:64
+#: app/Elementor/Widgets/ListingLocationsSlider.php:92
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:109
+msgid "Layout 02"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:65
+msgid "Layout 03"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:121
+#: app/Controllers/PostMetaController.php:148
+#: app/Controllers/PostMetaController.php:211
+#: app/Controllers/PostMetaController.php:236
+#: app/Elementor/Widgets/SocialShare.php:85
+msgid "Layout 1"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:122
+#: app/Controllers/PostMetaController.php:149
+#: app/Controllers/PostMetaController.php:212
+#: app/Controllers/PostMetaController.php:237
+#: app/Elementor/Widgets/SocialShare.php:89
+msgid "Layout 2"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:123
+#: app/Controllers/PostMetaController.php:150
+#: app/Elementor/Widgets/SocialShare.php:93
+msgid "Layout 3"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:113
+msgid "Layout Direction"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:34
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:236
+msgid "Layout Settings"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:52
+msgid "Layout Style"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:42
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:244
+msgid "Layouts"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:200
+msgid "Layouts Settings"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:139 app/Elementor/Core/ElementorCore.php:150
+#: app/Elementor/Core/ElementorCore.php:215
+#: app/Elementor/Core/ElementorCore.php:304
+#: app/Elementor/Core/ElementorCore.php:439 app/Elementor/Widgets/Team.php:226
+#: app/Elementor/Widgets/Slider.php:1169
+#: app/Elementor/Widgets/ListingCategoryBox.php:146
+#: app/Elementor/Widgets/Title.php:100
+#: app/Elementor/Widgets/ListingLocationsSlider.php:126
+#: app/Elementor/Widgets/InfoBox.php:84 app/Elementor/Widgets/InfoBox.php:107
+#: app/Elementor/Widgets/InfoBox.php:136 app/Elementor/Widgets/InfoBox.php:195
+#: app/Elementor/Widgets/Parallax.php:277
+#: app/Elementor/Widgets/ImageBox.php:134
+#: app/Elementor/Widgets/SocialShare.php:158
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:143
+#: app/Elementor/Widgets/VideoIcon.php:138
+#: app/Elementor/Widgets/PricingTable.php:320
+#: app/Elementor/Widgets/SocialIcon.php:137
+#: app/Elementor/Widgets/SocialIcon.php:243
+#: app/Elementor/Widgets/SiteMenu.php:101
+#: app/Elementor/Widgets/MenuIcons.php:115
+#: app/Elementor/Widgets/ContactBox.php:75
+#: app/Elementor/Widgets/ContactBox.php:98
+#: app/Elementor/Widgets/ContactBox.php:127
+#: app/Elementor/Widgets/ContactBox.php:186 app/Elementor/Widgets/Faq.php:146
+#: app/Elementor/Widgets/SiteLogo.php:78
+#: app/Elementor/Widgets/AboutWidget.php:133
+#: app/Elementor/Widgets/WritingTitle.php:101
+#: app/Elementor/Widgets/WritingTitle.php:176
+msgid "Left"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:169
+msgid "Left Alignment"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:105
+msgid "Left Sidebar"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:71
+msgid "Left to Right"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:43
+msgid "Light"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:191
+msgid "Light Color"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:246
+msgid "Light Footer"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:187
+msgid "Link"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:174
+msgid "Link "
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:955
+#: app/Elementor/Widgets/ContactBox.php:1039
+msgid "Link Icon"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:969
+#: app/Elementor/Widgets/ContactBox.php:1053
+msgid "Link Text"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:980
+#: app/Elementor/Widgets/ContactBox.php:1064
+msgid "Link Url"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:45
+msgid "LinkedIn"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:204
+msgid "linkedin"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:55
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:249
+msgid "List"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:408
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:357
+#: app/Elementor/Widgets/AboutWidget.php:304
+#: app/Elementor/Widgets/WritingTitle.php:425
+msgid "List Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:360
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:309
+#: app/Elementor/Widgets/AboutWidget.php:256
+#: app/Elementor/Widgets/WritingTitle.php:377
+msgid "List Icon"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:419
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:368
+#: app/Elementor/Widgets/PricingTable.php:938
+#: app/Elementor/Widgets/AboutWidget.php:315
+#: app/Elementor/Widgets/WritingTitle.php:436
+msgid "List Icon Color"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:972
+msgid "List Icon Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:890
+msgid "List Icon Size"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:351
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:300
+#: app/Elementor/Widgets/AboutWidget.php:247
+#: app/Elementor/Widgets/WritingTitle.php:368
+msgid "List Settings (if you use list item in description)"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:156
+#: app/Elementor/Widgets/PricingTable.php:216
+msgid "List Title"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:112
+#: app/Elementor/Widgets/ListingLocationsSlider.php:79
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:96
+msgid "Listing Ads"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:26
+msgid "Listing Category Box"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:26
+msgid "Listing Cats Filter"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:24
+msgid "Listing Cats Slider"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:660
+msgid "Listing Count Text"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:24
+msgid "Listing Locations Slider"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:273
+msgid "Location Wise Map"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:100
+msgid "Locations List"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:67
+msgid "Login icon"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:370
+msgid "Login Style"
+msgstr ""
+
+#: app/Widgets/About_Widget.php:75
+msgid "Logo"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:123
+msgid "Logo Height"
+msgstr ""
+
+#: app/Elementor/Widgets/AboutWidget.php:56
+msgid "Logo Image"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:39
+msgid "Logo Mode"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:63
+msgid "Logo Title"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:102
+msgid "Logo Width"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:370
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:319
+#: app/Elementor/Widgets/AboutWidget.php:266
+#: app/Elementor/Widgets/WritingTitle.php:387
+msgid "Long-arrow-alt-right"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:685
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:720
+msgid "Loop"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:689
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:724
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:53
+msgid "Mail"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:886
+msgid "Main Box Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:50
+msgid "Main Image"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1481
+msgid "Main Slider"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:68 app/Elementor/Widgets/WritingTitle.php:69
+msgid "Main Title"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:253
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:214
+#: app/Elementor/Widgets/AboutWidget.php:161
+#: app/Elementor/Widgets/WritingTitle.php:270
+msgid "Main Title Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:122
+#: app/Elementor/Widgets/WritingTitle.php:123
+msgid "Main Title Tag"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:467
+#: app/Elementor/Core/ElementorCore.php:549
+#: app/Elementor/Core/ElementorCore.php:570
+#: app/Elementor/Core/ElementorCore.php:614
+#: app/Elementor/Widgets/ListingCategoryBox.php:288
+#: app/Elementor/Widgets/ListingCategoryBox.php:418
+#: app/Elementor/Widgets/ListingCategoryBox.php:551
+#: app/Elementor/Widgets/Title.php:200 app/Elementor/Widgets/Title.php:293
+#: app/Elementor/Widgets/Title.php:339 app/Elementor/Widgets/InfoBox.php:339
+#: app/Elementor/Widgets/InfoBox.php:764 app/Elementor/Widgets/InfoBox.php:864
+#: app/Elementor/Widgets/InfoBox.php:1072
+#: app/Elementor/Widgets/InfoBox.php:1175
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:242
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:288
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:447
+#: app/Elementor/Widgets/Testimonial.php:723
+#: app/Elementor/Widgets/PricingTable.php:823
+#: app/Elementor/Widgets/ContactBox.php:330
+#: app/Elementor/Widgets/ContactBox.php:764
+#: app/Elementor/Widgets/ContactBox.php:864
+#: app/Elementor/Widgets/ContactBox.php:1156
+#: app/Elementor/Widgets/ContactBox.php:1259 app/Elementor/Widgets/Faq.php:373
+#: app/Elementor/Widgets/AboutWidget.php:189
+#: app/Elementor/Widgets/AboutWidget.php:235
+#: app/Elementor/Widgets/AboutWidget.php:394
+#: app/Elementor/Widgets/WritingTitle.php:251
+#: app/Elementor/Widgets/WritingTitle.php:310
+#: app/Elementor/Widgets/WritingTitle.php:356
+msgid "Margin"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1772
+msgid "Margin Bottom"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:164
+msgid "Maria Zokatti"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:92 app/Elementor/Widgets/Testimonial.php:165
+msgid "Marketing Manager"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:247
+msgid "Masonry"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:199
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:199
+msgid "Maximum Price"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:165
+msgid "Menu Alignment"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:184
+msgid "Menu arrow color"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:224
+msgid "Menu arrow color:hover"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:140
+msgid "Menu Icon Style"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:163
+msgid "Menu item color"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:203
+msgid "Menu item color:hover"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:250
+msgid "Menu item padding"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:82 app/Elementor/Widgets/Post.php:239
+msgid "Menu order"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:124
+msgid "Menu Style"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:133
+msgid "Menu Typography"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:554
+msgid "Meta Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:575
+msgid "Meta Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:526
+msgid "Meta Info Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:240
+msgid "Meta value"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:241
+msgid "Meta value number"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:170
+#: app/Elementor/Widgets/ContactBox.php:161
+msgid "Middle"
+msgstr ""
+
+#: app/Elementor/Widgets/ContactForm.php:74
+msgid "Min Height"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:195
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:190
+msgid "Minimum Price"
+msgstr ""
+
+#: app/Elementor/Widgets/ImageBox.php:167
+msgid "Mouse Effects"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:81
+msgid "Mouse Follow Position"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:71
+msgid "My Skill"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:83
+#: app/Elementor/Widgets/Testimonial.php:888
+msgid "Name"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:288
+msgid "Name Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:268
+msgid "Name Spacing"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:252
+msgid "Name Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1490
+msgid "Navigation"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:602
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:637
+msgid "Navigation Arrow"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:606
+#: app/Elementor/Widgets/ListingLocationsSlider.php:617
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:641
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:652
+msgid "Navigation Arrow. Default: On"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:67
+msgid "New Template"
+msgstr ""
+
+#: templates/elementor/slider/view-1.php:48
+#: templates/elementor/slider/view-2.php:48
+msgid "Next"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:445
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:480
+msgid "Next Arrow"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1372 app/Elementor/Widgets/Slider.php:1539
+#: app/Elementor/Widgets/Slider.php:1553 app/Elementor/Widgets/Slider.php:1570
+#: app/Elementor/Widgets/Slider.php:1628 app/Elementor/Widgets/Slider.php:1713
+#: app/Elementor/Widgets/ListingCategoryBox.php:173
+#: app/Elementor/Widgets/InfoBox.php:1271
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:85
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:97
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:109
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:133
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:145
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:157
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:169
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:181
+#: app/Elementor/Widgets/Testimonial.php:322
+#: app/Elementor/Widgets/Testimonial.php:335
+#: app/Elementor/Widgets/Testimonial.php:364
+#: app/Elementor/Widgets/PricingTable.php:113
+#: app/Elementor/Widgets/PricingTable.php:125
+#: app/Elementor/Widgets/ContactBox.php:1293
+msgid "No"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:69
+msgid "No Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:364
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:313
+#: app/Elementor/Widgets/AboutWidget.php:260
+#: app/Elementor/Widgets/WritingTitle.php:381
+msgid "No Icon"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:74
+msgid "No Templates found in Trash."
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:73
+msgid "No Templates found."
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:667
+#: app/Elementor/Widgets/Slider.php:1497 app/Elementor/Widgets/Slider.php:1652
+#: app/Elementor/Widgets/PricingTable.php:62
+msgid "None"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:525 app/Elementor/Widgets/Slider.php:74
+#: app/Elementor/Widgets/Slider.php:368 app/Elementor/Widgets/Slider.php:622
+#: app/Elementor/Widgets/Slider.php:1388
+#: app/Elementor/Widgets/ListingCategoryBox.php:299
+#: app/Elementor/Widgets/ListingCategoryBox.php:429
+#: app/Elementor/Widgets/ListingCategoryBox.php:490
+#: app/Elementor/Widgets/ListingCategoryBox.php:562
+#: app/Elementor/Widgets/ListingCategoryBox.php:645
+#: app/Elementor/Widgets/ListingCategoryBox.php:755
+#: app/Elementor/Widgets/ListingLocationsSlider.php:249
+#: app/Elementor/Widgets/ListingLocationsSlider.php:478
+#: app/Elementor/Widgets/InfoBox.php:370 app/Elementor/Widgets/InfoBox.php:612
+#: app/Elementor/Widgets/InfoBox.php:775 app/Elementor/Widgets/InfoBox.php:884
+#: app/Elementor/Widgets/InfoBox.php:1005
+#: app/Elementor/Widgets/InfoBox.php:1319
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:395
+#: app/Elementor/Widgets/Post.php:394 app/Elementor/Widgets/Post.php:546
+#: app/Elementor/Widgets/Post.php:786
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:684
+#: app/Elementor/Widgets/SocialShare.php:260
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:277
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:513
+#: app/Elementor/Widgets/VideoIcon.php:245
+#: app/Elementor/Widgets/VideoIcon.php:377
+#: app/Elementor/Widgets/PricingTable.php:376
+#: app/Elementor/Widgets/PricingTable.php:448
+#: app/Elementor/Widgets/PricingTable.php:505
+#: app/Elementor/Widgets/PricingTable.php:555
+#: app/Elementor/Widgets/PricingTable.php:653
+#: app/Elementor/Widgets/PricingTable.php:725
+#: app/Elementor/Widgets/PricingTable.php:918
+#: app/Elementor/Widgets/PricingTable.php:1067
+#: app/Elementor/Widgets/PricingTable.php:1247
+#: app/Elementor/Widgets/PricingTable.php:1451
+#: app/Elementor/Widgets/SocialIcon.php:402
+#: app/Elementor/Widgets/SiteMenu.php:155
+#: app/Elementor/Widgets/MenuIcons.php:257
+#: app/Elementor/Widgets/MenuIcons.php:434
+#: app/Elementor/Widgets/ContactBox.php:354
+#: app/Elementor/Widgets/ContactBox.php:612
+#: app/Elementor/Widgets/ContactBox.php:775
+#: app/Elementor/Widgets/ContactBox.php:875
+#: app/Elementor/Widgets/ContactBox.php:1089
+#: app/Elementor/Widgets/ContactBox.php:1310
+#: app/Elementor/Widgets/AboutWidget.php:342
+msgid "Normal"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:543
+#: app/Elementor/Widgets/ContactBox.php:543
+msgid "Number Box"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:329
+#: app/Elementor/Widgets/InfoBox.php:635
+#: app/Elementor/Widgets/ContactBox.php:635
+msgid "Number Box Background"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:684
+#: app/Elementor/Widgets/ContactBox.php:684
+msgid "Number Box Hover Background"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:339
+msgid "Number Box Size"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:315
+msgid "Number Color"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:81 app/Elementor/Widgets/Post.php:238
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:157
+msgid "Number of comments"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:212
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:133
+msgid ""
+"Number of post to displace or pass over. The offset parameter is ignored "
+"when post limit => -1 (show all posts) is used."
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:307
+msgid "Number Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:552
+#: app/Elementor/Widgets/ContactBox.php:552
+msgid "Number Text"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:139
+#: app/Controllers/PostMetaController.php:182
+#: app/Controllers/PostMetaController.php:202
+#: app/Controllers/PostMetaController.php:222
+msgid "OFF"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:563
+#: app/Controllers/ElementorController.php:575
+#: app/Controllers/ElementorController.php:587
+#: app/Elementor/Core/ElementorCore.php:60
+#: app/Elementor/Core/ElementorCore.php:88
+#: app/Elementor/Widgets/ListingLocationsSlider.php:593
+#: app/Elementor/Widgets/ListingLocationsSlider.php:604
+#: app/Elementor/Widgets/ListingLocationsSlider.php:615
+#: app/Elementor/Widgets/ListingLocationsSlider.php:638
+#: app/Elementor/Widgets/ListingLocationsSlider.php:687
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:359
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:370
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:381
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:392
+#: app/Elementor/Widgets/SocialShare.php:211
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:628
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:639
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:650
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:673
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:722
+#: app/Elementor/Widgets/MenuIcons.php:50
+#: app/Elementor/Widgets/MenuIcons.php:60
+#: app/Elementor/Widgets/MenuIcons.php:70
+#: app/Elementor/Widgets/MenuIcons.php:80
+#: app/Elementor/Widgets/MenuIcons.php:102
+msgid "Off"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:138
+#: app/Controllers/PostMetaController.php:181
+#: app/Controllers/PostMetaController.php:201
+#: app/Controllers/PostMetaController.php:221
+msgid "ON"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:562
+#: app/Controllers/ElementorController.php:574
+#: app/Controllers/ElementorController.php:586
+#: app/Elementor/Core/ElementorCore.php:61
+#: app/Elementor/Widgets/ListingLocationsSlider.php:592
+#: app/Elementor/Widgets/ListingLocationsSlider.php:603
+#: app/Elementor/Widgets/ListingLocationsSlider.php:614
+#: app/Elementor/Widgets/ListingLocationsSlider.php:637
+#: app/Elementor/Widgets/ListingLocationsSlider.php:686
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:358
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:369
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:380
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:391
+#: app/Elementor/Widgets/SocialShare.php:210
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:627
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:638
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:649
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:672
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:721
+#: app/Elementor/Widgets/MenuIcons.php:49
+#: app/Elementor/Widgets/MenuIcons.php:59
+#: app/Elementor/Widgets/MenuIcons.php:69
+#: app/Elementor/Widgets/MenuIcons.php:79
+#: app/Elementor/Widgets/MenuIcons.php:101
+msgid "On"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:87
+msgid "on"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:522
+#: app/Elementor/Widgets/WritingTitle.php:539
+msgid "Opacity"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:402
+msgid "Open Item Style"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:242
+msgid "Opt1"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:243
+msgid "Opt2"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:88
+msgid "Order"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:73 app/Elementor/Widgets/Post.php:229
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:149
+msgid "Order by"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:233
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:153
+msgid "Order by post ID"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:134
+msgid "Orientation"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:477
+#: app/Elementor/Widgets/WritingTitle.php:494
+msgid "Outline"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:485
+#: app/Elementor/Widgets/WritingTitle.php:502
+msgid "Outline Width"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:484
+msgid "Outside"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1192
+msgid "Overlay"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:548
+msgid "Overlay 1"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:566
+msgid "Overlay 2"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1195
+msgid "Overlay Type"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:130
+#: app/Elementor/Widgets/ListingCategoryBox.php:634
+#: app/Elementor/Widgets/ListingCategoryBox.php:744
+#: app/Elementor/Widgets/Title.php:188
+#: app/Elementor/Widgets/ListingLocationsSlider.php:110
+#: app/Elementor/Widgets/InfoBox.php:350 app/Elementor/Widgets/InfoBox.php:853
+#: app/Elementor/Widgets/InfoBox.php:1058
+#: app/Elementor/Widgets/InfoBox.php:1186
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:436
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:445
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:731
+#: app/Elementor/Widgets/Testimonial.php:565
+#: app/Elementor/Widgets/Testimonial.php:734
+#: app/Elementor/Widgets/SocialShare.php:200
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:127
+#: app/Elementor/Widgets/PricingTable.php:812
+#: app/Elementor/Widgets/MenuIcons.php:213
+#: app/Elementor/Widgets/MenuIcons.php:390
+#: app/Elementor/Widgets/ContactBox.php:341
+#: app/Elementor/Widgets/ContactBox.php:853
+#: app/Elementor/Widgets/ContactBox.php:1142
+#: app/Elementor/Widgets/ContactBox.php:1270 app/Elementor/Widgets/Faq.php:213
+#: app/Elementor/Widgets/Faq.php:264 app/Elementor/Widgets/AboutWidget.php:383
+msgid "Padding"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:277
+msgid "padding"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:256
+msgid "Padding Bottom (Page Content)"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:252
+msgid "Padding Top (Page Content)"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:613
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:648
+msgid "Pagination"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:561
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:596
+msgid "Pagination Active Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:548
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:583
+msgid "Pagination Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:293
+msgid "Paginations"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:58
+msgid "Parallax"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:243
+msgid "Parallax Settings"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:85
+msgid "Parallax Transition off?"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:72
+msgid "Parent Templates:"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:63
+msgid "Password:"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1548
+msgid "Pause on Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1565
+msgid "Pause on Interaction"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:95
+msgid "Percentage"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:120
+msgid "Percentage Position"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:167
+msgid "Period"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:512
+msgid "Period Color"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:532
+msgid "Period Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:488
+msgid "Period Options"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:57 app/Elementor/Widgets/Team.php:131
+msgid "Phone"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:42
+msgid "Phone Number"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:788
+#: app/Elementor/Widgets/Testimonial.php:534
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:823
+msgid "Phones: > 425px"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:773
+#: app/Elementor/Widgets/Testimonial.php:516
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:808
+msgid "Phones: > 576px"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:49
+msgid "Pinterest"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:100
+msgid "Plan Name"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:238
+msgid "Platform Name"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:187
+msgid "Play Button Style"
+msgstr ""
+
+#: app/Elementor/Widgets/AboutWidget.php:88
+msgid "Play Store Icon"
+msgstr ""
+
+#: app/Elementor/Widgets/AboutWidget.php:99
+msgid "Play Store Link"
+msgstr ""
+
+#: app/Widgets/About_Widget.php:88
+msgid "Play Store URL"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:102
+msgid "Play Video"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:226
+msgid "Please choose the share toggle icon."
+msgstr ""
+
+#: app/Elementor/Controls/Select2AjaxControl.php:37
+msgid "Please Select"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:899
+msgid "Please Select a Category"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:104
+msgid "Please select the products to show. Leave it blank to exclude none."
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:84
+msgid "Popular Post"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:252
+msgid "Portfolio Layout. Default: Grid"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:480 app/Elementor/Widgets/Title.php:446
+#: app/Elementor/Widgets/Title.php:545
+#: app/Elementor/Widgets/WritingTitle.php:463
+#: app/Elementor/Widgets/WritingTitle.php:562
+msgid "Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:452
+#: app/Elementor/Widgets/WritingTitle.php:469
+msgid "Position Relative"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:451
+#: app/Elementor/Widgets/WritingTitle.php:468
+msgid "Position Static"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:14 app/Helper/FnsBuilder.php:15
+msgid "Post"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:403
+msgid "Post Box Style"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:96
+msgid "Post by ID"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:869
+msgid "Post Card Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:76
+msgid "Post Excerpt"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:50
+msgid "Post Grid"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:139
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:66
+msgid "Post Limit"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:209
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:130
+msgid "Post offset"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:80 app/Elementor/Widgets/Post.php:237
+msgid "Post parent ID"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:150
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:86
+msgid "Post Source"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:64
+msgid "Post Type"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:111
+msgid "Post View Style"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:69
+msgid "Posts Per Page"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:75
+#: app/Elementor/Widgets/SocialShare.php:142
+msgid "Presets"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:419
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:454
+msgid "Prev Arrow"
+msgstr ""
+
+#: templates/elementor/slider/view-1.php:44
+#: templates/elementor/slider/view-2.php:44
+msgid "Previous"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:157
+msgid "Price"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:455
+msgid "Price Color"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:474
+msgid "Price Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:420
+msgid "Price Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:428
+msgid "Pricing Options"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:546
+msgid "Pricing Separator Options"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:26
+msgid "Pricing Table"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:48
+msgid "Pricing Table Settings"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:637
+msgid "Primary Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:303
+msgid "Pro Features"
+msgstr ""
+
+#: app/Elementor/Widgets/ProductsGrid.php:40
+msgid "Products - Grid Layouts"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:21
+#: app/Elementor/Widgets/ProgressBar.php:30
+#: app/Elementor/Widgets/ProgressBar.php:172
+msgid "Progress Bar"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:51
+msgid "Progress Bar Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:67
+msgid "Put here faq title"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:60
+msgid "QUERY"
+msgstr ""
+
+#: templates/elementor/listing-categories-filter/view-1.php:202
+msgid "Quick View"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:63
+#: app/Elementor/Widgets/Testimonial.php:611
+msgid "Quote Icon"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:162
+msgid "Quote Icon Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:237
+#: app/Elementor/Widgets/ListingLocationsSlider.php:377
+#: app/Elementor/Widgets/InfoBox.php:405 app/Elementor/Widgets/InfoBox.php:456
+#: app/Elementor/Widgets/InfoBox.php:648 app/Elementor/Widgets/InfoBox.php:1217
+#: app/Elementor/Widgets/Post.php:750
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:753
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:412
+#: app/Elementor/Widgets/VideoIcon.php:366
+#: app/Elementor/Widgets/MenuIcons.php:231
+#: app/Elementor/Widgets/MenuIcons.php:408
+#: app/Elementor/Widgets/ContactBox.php:397
+#: app/Elementor/Widgets/ContactBox.php:456
+#: app/Elementor/Widgets/ContactBox.php:648
+#: app/Elementor/Widgets/ContactBox.php:1281
+msgid "Radius"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:199
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: app/Widgets/Post_Widget.php:83 app/Elementor/Widgets/Post.php:242
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:158
+msgid "Random order"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:117
+#: app/Elementor/Widgets/Testimonial.php:187
+#: app/Elementor/Widgets/Testimonial.php:975
+msgid "Rating"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:119
+msgid "Rating 1"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:120
+msgid "Rating 2"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:121
+msgid "Rating 3"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:122
+msgid "Rating 4"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:123
+msgid "Rating 5"
+msgstr ""
+
+#: templates/elementor/listing-category-box/view-3.php:64
+msgid "Read More"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:176
+msgid "Read More Button"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:192
+msgid "Read More Padding"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:660
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:665
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:673
+msgid "Read More Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:668
+msgid "Read More Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:645
+msgid "Reading Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1213 app/Elementor/Widgets/Slider.php:1217
+msgid "Ready to change your physique, but can't work out in the gym?"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:50
+msgid "Reddit"
+msgstr ""
+
+#: app/Abstracts/ElementorBase.php:147 app/Elementor/Core/ElementorCore.php:217
+#: app/Elementor/Core/ElementorCore.php:306
+#: app/Elementor/Core/ElementorCore.php:447 app/Elementor/Widgets/Team.php:234
+#: app/Elementor/Widgets/Slider.php:1177
+#: app/Elementor/Widgets/ListingCategoryBox.php:154
+#: app/Elementor/Widgets/Title.php:108
+#: app/Elementor/Widgets/ListingLocationsSlider.php:134
+#: app/Elementor/Widgets/InfoBox.php:92 app/Elementor/Widgets/InfoBox.php:115
+#: app/Elementor/Widgets/InfoBox.php:144 app/Elementor/Widgets/InfoBox.php:203
+#: app/Elementor/Widgets/Parallax.php:278
+#: app/Elementor/Widgets/ImageBox.php:142
+#: app/Elementor/Widgets/SocialShare.php:166
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:151
+#: app/Elementor/Widgets/VideoIcon.php:146
+#: app/Elementor/Widgets/PricingTable.php:328
+#: app/Elementor/Widgets/SocialIcon.php:145
+#: app/Elementor/Widgets/SocialIcon.php:251
+#: app/Elementor/Widgets/SiteMenu.php:109
+#: app/Elementor/Widgets/MenuIcons.php:123
+#: app/Elementor/Widgets/ContactBox.php:83
+#: app/Elementor/Widgets/ContactBox.php:106
+#: app/Elementor/Widgets/ContactBox.php:135
+#: app/Elementor/Widgets/ContactBox.php:194 app/Elementor/Widgets/Faq.php:150
+#: app/Elementor/Widgets/SiteLogo.php:86
+#: app/Elementor/Widgets/AboutWidget.php:141
+#: app/Elementor/Widgets/WritingTitle.php:109
+#: app/Elementor/Widgets/WritingTitle.php:177
+msgid "Right"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:152
+msgid "right"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:171
+msgid "Right Alignment"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:106
+msgid "Right Sidebar"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:218
+#: app/Elementor/Widgets/SiteMenu.php:76
+msgid "Row"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:226
+#: app/Elementor/Widgets/SiteMenu.php:84
+msgid "Row Reverse"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:22
+msgid "RT Menu Icons"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:21
+msgid "RT Parallax Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:24
+msgid "RT Post"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:22
+msgid "RT Site Logo"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:22
+msgid "RT Site Menu"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:23 app/Elementor/Widgets/Slider.php:664
+msgid "RT Slider"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:31
+msgid "RT Social Icon Setting"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:24
+msgid "RT Team"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:27
+msgid "RT Testimonial"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:24
+msgid "RT Video"
+msgstr ""
+
+#: app/Widgets/Search_Widget.php:28
+msgid "Search"
+msgstr ""
+
+#: app/Elementor/Widgets/MenuIcons.php:57
+msgid "Search bar"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:179
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:106
+msgid "Search by Category"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:183
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:166
+msgid "Search by Custom Fields"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:171
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:142
+msgid "Search by Google Location"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:159
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:82
+msgid "Search by Keyword"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:163
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:94
+msgid "Search by Listing Types"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:167
+msgid "Search by Local Location"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:130
+msgid "Search by Location"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:191
+msgid "Search by Parent Category"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:187
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:178
+msgid "Search by Price"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:175
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:154
+msgid "Search by Radius Distance"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:24
+msgid "Search Page"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:71
+msgid "Search Templates"
+msgstr ""
+
+#: app/Widgets/Search_Widget.php:21
+msgid "Search widget"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:24
+msgid "Section Title"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:690
+msgid "See Details"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:54
+msgid "Select"
+msgstr ""
+
+#: app/Helper/Fns.php:117
+msgid "Select A Menu"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:73
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:68
+msgid "Select Category"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:66
+msgid "Select Location"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:174
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:109
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:124
+msgid "Select post category's."
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:189
+msgid "Select post tag's."
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:159
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:95
+msgid "Select posts source that you like to show."
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:562
+#: app/Elementor/Widgets/PricingTable.php:580
+#: app/Elementor/Widgets/MenuIcons.php:177
+msgid "Separator Color"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:593
+msgid "Separator Size"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:675
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:710
+msgid ""
+"Set any value for example .8 seconds to play it in every 2 seconds. Default: "
+".8 Seconds"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:663
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:698
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:218
+msgid "Share:"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:247
+msgid "Sharing Text"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:69 app/Elementor/Widgets/ContactForm.php:57
+msgid "Shortcode"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:65
+msgid "Shortcode Title"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:197
+#: app/Elementor/Widgets/ListingCategoryBox.php:208
+#: app/Elementor/Widgets/ListingLocationsSlider.php:163
+#: app/Elementor/Widgets/ListingLocationsSlider.php:174
+#: app/Elementor/Widgets/Post.php:599 app/Elementor/Widgets/Post.php:611
+#: app/Elementor/Widgets/Post.php:623 app/Elementor/Widgets/Post.php:635
+#: app/Elementor/Widgets/Post.php:647
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:178
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:467
+#: app/Elementor/Widgets/ProgressBar.php:112
+#: app/Elementor/Widgets/Testimonial.php:189
+#: app/Elementor/Widgets/Testimonial.php:295
+#: app/Elementor/Widgets/Testimonial.php:308
+#: app/Elementor/Widgets/Testimonial.php:819
+#: app/Elementor/Widgets/ImageBox.php:157
+#: app/Elementor/Widgets/ImageBox.php:169
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:180
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:191
+#: app/Elementor/Widgets/Faq.php:97
+msgid "Show"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:561
+msgid "Show Address"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:368
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:379
+msgid "Show Badge"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:390
+msgid "Show Favourites"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:208
+msgid "Show Header Text?"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:78
+msgid "Show On"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:585
+msgid "Show On/Off Status"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:565
+msgid "Show or Hide Address. Default: Off"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:372
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:383
+msgid "Show or Hide labels. Default: On"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:577
+#: app/Controllers/ElementorController.php:589
+msgid "Show or Hide Review. Default: Off"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:361
+msgid "Show or Hide Types. Default: On"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:573
+msgid "Show Review"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:357
+msgid "Show Types"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:35
+msgid "Sitewide"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:581
+#: app/Elementor/Widgets/Slider.php:497
+msgid "Size"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1509
+#: app/Elementor/Widgets/Testimonial.php:410
+msgid "Slide"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:248
+#: app/Elementor/Widgets/Testimonial.php:134
+msgid "Slider"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1663
+msgid "Slider Gallery Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:700
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:735
+msgid "Slider Grid"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1258
+msgid "Slider Height"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:686
+msgid "Slider Image"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1207
+msgid "Slider Items"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:717
+msgid "Slider Link"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:580
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:615
+msgid "Slider Option"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:422
+msgid "Slider Per Group"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1692
+msgid "Slider Per View"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1327
+msgid "Slider Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:217 app/Elementor/Widgets/Slider.php:671
+#: app/Elementor/Widgets/ListingLocationsSlider.php:366
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:401
+msgid "Slider Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:625
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:660
+msgid "slides Per Group"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:629
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:664
+msgid "slides Per Group. Default: 1"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1594
+msgid "Slides Per View"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:648
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:683
+msgid "Slides Space"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:654
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:689
+msgid "Slides Space. Default: 24"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:421
+msgid "Social BG Color"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:452
+msgid "Social BG Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:410
+msgid "Social Color"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:324
+msgid "Social Gap"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:364
+msgid "Social Height"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:441
+msgid "Social Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:23
+#: app/Elementor/Widgets/SocialIcon.php:159
+msgid "Social Icon"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:544
+msgid "Social Icon Background"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:576
+msgid "Social Icon Background Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:532
+msgid "Social Icon Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:564
+msgid "Social Icon Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:183
+msgid "Social Icon List"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:490
+msgid "Social Icon Style"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:306
+msgid "Social List Item"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:385
+msgid "Social Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:37
+msgid "Social Share"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:315
+msgid "Social Typo"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:342
+msgid "Social Width"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:476
+#: app/Elementor/Widgets/WritingTitle.php:493
+msgid "Solid"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:251
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:165
+msgid "Sort order"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:388
+msgid "Space"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:169
+msgid "Space Around"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1611 app/Elementor/Widgets/Slider.php:1676
+#: app/Elementor/Widgets/VideoIcon.php:168
+msgid "Space Between"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:170
+msgid "Space Evenly"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:636
+#: app/Elementor/Widgets/PricingTable.php:869
+msgid "Spacing"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:70
+#: app/Elementor/Widgets/Testimonial.php:375
+msgid "Speed"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:73
+msgid "Spin Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:993
+msgid "Star Active Color"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:231
+#: app/Elementor/Widgets/Testimonial.php:983
+msgid "Star Color"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:246
+msgid "Star Size"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:165
+msgid "Start"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:211
+msgid "Start Alignment"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:196
+msgid "Start Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:56
+msgid "Striped Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:55
+msgid "Striped BG"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:222
+msgid "Striped Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:42 app/Elementor/Widgets/InfoBox.php:57
+#: app/Elementor/Widgets/InfoBox.php:836
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:67
+#: app/Elementor/Widgets/Post.php:58 app/Elementor/Widgets/ProgressBar.php:37
+#: app/Elementor/Widgets/ImageBox.php:38 app/Elementor/Widgets/VideoIcon.php:51
+#: app/Elementor/Widgets/ContactBox.php:58
+#: app/Elementor/Widgets/ContactBox.php:836
+msgid "Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:46 app/Elementor/Widgets/InfoBox.php:61
+#: app/Elementor/Widgets/Post.php:62
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:213
+#: app/Elementor/Widgets/ProgressBar.php:41
+#: app/Elementor/Widgets/Testimonial.php:147
+#: app/Elementor/Widgets/ImageBox.php:40
+#: app/Elementor/Widgets/ContactBox.php:62
+msgid "Style 1"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:675
+msgid "Style 1 : Default slider"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:70
+msgid "Style 10"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:71
+msgid "Style 11"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:72
+msgid "Style 12"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:47 app/Elementor/Widgets/InfoBox.php:62
+#: app/Elementor/Widgets/Post.php:63
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:217
+#: app/Elementor/Widgets/ProgressBar.php:42
+#: app/Elementor/Widgets/Testimonial.php:148
+#: app/Elementor/Widgets/ImageBox.php:41
+#: app/Elementor/Widgets/ContactBox.php:63
+msgid "Style 2"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:676
+msgid "Style 2 : Logo slider"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:460
+#: app/Elementor/Widgets/Team.php:48 app/Elementor/Widgets/InfoBox.php:63
+#: app/Elementor/Widgets/Post.php:64
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:221
+#: app/Elementor/Widgets/Testimonial.php:149
+#: app/Elementor/Widgets/ImageBox.php:42
+msgid "Style 3"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:64 app/Elementor/Widgets/Post.php:65
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:225
+#: app/Elementor/Widgets/Testimonial.php:150
+msgid "Style 4"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:65
+msgid "Style 5"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:518
+#: app/Elementor/Widgets/InfoBox.php:66
+msgid "Style 6"
+msgstr ""
+
+#: app/Controllers/ElementorController.php:522
+#: app/Elementor/Widgets/InfoBox.php:67
+msgid "Style 7"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:68
+msgid "Style 8"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:69
+msgid "Style 9"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:145
+msgid "Styles"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:173
+msgid "Sub menu item color"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:213
+msgid "Sub menu item color:hover"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:262
+msgid "Sub Menu item padding"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:661
+msgid "Sub Title Color"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:682
+msgid "Sub Title Color Hover"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1000
+msgid "Sub Title Paralax Delay"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:900
+msgid "Sub Title Paralax X Axix"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:619
+msgid "Sub Title Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteMenu.php:142
+msgid "Submenu Typography"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:706
+#: app/Elementor/Widgets/PricingTable.php:147
+msgid "Subtitle"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:888
+msgid "Subtitle Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:85
+msgid "Success"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialShare.php:209
+msgid "Switch on to show social sharing text before icons."
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:758
+#: app/Elementor/Widgets/Testimonial.php:498
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:793
+msgid "Tablets: > 768px"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:89
+msgid "Team Designation"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:34
+msgid "Team Grid"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:57
+msgid "Team Image"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:78
+msgid "Team Name"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:67
+msgid "Template Type"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:153
+msgid "Testimonial Layout. Default: 1"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:138
+msgid "Testimonial Layout. Default: Grid"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:159
+msgid "Testimonial List"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:133 app/Elementor/Widgets/InfoBox.php:192
+#: app/Elementor/Widgets/ContactBox.php:124
+#: app/Elementor/Widgets/ContactBox.php:183
+msgid "Text Alignment left/right"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:163
+#: app/Elementor/Widgets/ContactBox.php:154
+msgid "Text Alignment top/bottom"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:347
+#: app/Elementor/Widgets/VideoIcon.php:330
+#: app/Elementor/Widgets/ContactBox.php:975
+msgid "Text Color"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:341
+#: app/Elementor/Widgets/ContactBox.php:986
+msgid "Text Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:311 app/Elementor/Widgets/Faq.php:236
+msgid "Text Style"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:321
+msgid "Text Typography"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:665
+msgid "Theme Custom Animation"
+msgstr ""
+
+#: app/Elementor/Core/ElementorCore.php:676
+msgid "Theme Custom Animation Delay"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:930
+#: app/Elementor/Widgets/PricingTable.php:943
+msgid "This color will work if you don't set color from the list"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:62
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:61
+#: app/Elementor/Widgets/AboutWidget.php:80
+msgid "This is a app button title"
+msgstr ""
+
+#: app/Elementor/Widgets/SiteLogo.php:54
+msgid ""
+"This widget works depending on the logo setting from [Customize > Site "
+"Identity]."
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:465
+#: app/Elementor/Widgets/Testimonial.php:817
+msgid "Thumb"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:145
+msgid "Thumb Label"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:142
+msgid "Thumb label"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:464
+msgid "Thumb Meta Background"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:453
+msgid "Thumb Meta Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:475
+msgid "Thumb Meta Dot color"
+msgstr ""
+
+#: app/Elementor/Widgets/Team.php:437
+msgid "Thumb Meta Style"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:497
+#: app/Elementor/Widgets/Testimonial.php:849
+msgid "Thumb Size Height"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:476
+#: app/Elementor/Widgets/Testimonial.php:828
+msgid "Thumb Size Width"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:334
+msgid "Thumbanail Box Size"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:458
+msgid "Thumbnail Image"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:320
+msgid "Thumbnail Radius"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:268
+msgid "Thumbnail Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:276
+msgid "Thumbnail Visibility"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:45 app/Widgets/Search_Widget.php:35
+#: app/Widgets/About_Widget.php:71 app/Widgets/Post_Widget.php:48
+#: app/Widgets/Post_Widget.php:78 app/Widgets/Listing_Search_Widget.php:130
+#: app/Elementor/Widgets/Team.php:154 app/Elementor/Widgets/Slider.php:696
+#: app/Elementor/Widgets/InfoBox.php:714 app/Elementor/Widgets/InfoBox.php:722
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:57
+#: app/Elementor/Widgets/Post.php:235
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:155
+#: app/Elementor/Widgets/ProgressBar.php:65
+#: app/Elementor/Widgets/Testimonial.php:101
+#: app/Elementor/Widgets/Testimonial.php:946
+#: app/Elementor/Widgets/Testimonial.php:954
+#: app/Elementor/Widgets/Testimonial.php:964
+#: app/Elementor/Widgets/ContactForm.php:48
+#: app/Elementor/Widgets/ContactBox.php:714
+#: app/Elementor/Widgets/ContactBox.php:722 app/Elementor/Widgets/Faq.php:65
+#: app/Elementor/Widgets/AboutWidget.php:76
+msgid "Title"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:194
+msgid "Title Active Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:199
+msgid "Title Alignment"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:751
+msgid "Title Animation"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1749
+#: app/Elementor/Widgets/ListingCategoryBox.php:436
+#: app/Elementor/Widgets/ListingCategoryBox.php:455
+#: app/Elementor/Widgets/ListingLocationsSlider.php:256
+#: app/Elementor/Widgets/ListingLocationsSlider.php:285
+#: app/Elementor/Widgets/Post.php:401
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:320
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:375
+#: app/Elementor/Widgets/PricingTable.php:250 app/Elementor/Widgets/Faq.php:184
+msgid "Title Color"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1761
+msgid "Title Color - 2"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:421
+msgid "Title Hover Color"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingLocationsSlider.php:203
+msgid "Title Margin"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:863
+msgid "Title Paralax Delay"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:843 app/Elementor/Widgets/Slider.php:980
+#: app/Elementor/Widgets/Slider.php:1116
+msgid "Title Paralax Duration"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:823 app/Elementor/Widgets/Slider.php:960
+#: app/Elementor/Widgets/Slider.php:1096
+msgid "Title Paralax Opcaity"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:803 app/Elementor/Widgets/Slider.php:940
+#: app/Elementor/Widgets/Slider.php:1076
+msgid "Title Paralax Scale"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:763 app/Elementor/Widgets/Slider.php:1036
+msgid "Title Paralax X Axix"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:783 app/Elementor/Widgets/Slider.php:920
+#: app/Elementor/Widgets/Slider.php:1056
+msgid "Title Paralax Y Axix"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1728
+#: app/Elementor/Widgets/PricingTable.php:345
+msgid "Title Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:378
+#: app/Elementor/Widgets/PricingTable.php:362
+msgid "Title Spacing"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:401
+#: app/Elementor/Widgets/Title.php:472 app/Elementor/Widgets/InfoBox.php:747
+#: app/Elementor/Widgets/Post.php:361
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:594
+#: app/Elementor/Widgets/ProgressBar.php:339
+#: app/Elementor/Widgets/ContactBox.php:747 app/Elementor/Widgets/Faq.php:175
+#: app/Elementor/Widgets/WritingTitle.php:489
+msgid "Title Style"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:122
+msgid "Title Tag"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:409
+#: app/Elementor/Widgets/ListingLocationsSlider.php:196
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:259
+msgid "Title Typo"
+msgstr ""
+
+#: app/Elementor/Widgets/Faq.php:204
+msgid "Title Typography"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:88 app/Elementor/Widgets/InfoBox.php:166
+#: app/Elementor/Widgets/ContactBox.php:79
+#: app/Elementor/Widgets/ContactBox.php:157
+msgid "Top"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:134
+msgid "Top Bar Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:58 app/Elementor/Widgets/WritingTitle.php:60
+msgid "Top Sub Title"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:145
+#: app/Elementor/Widgets/WritingTitle.php:146
+msgid "Top Sub Title Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:72
+msgid "Top to Bottom"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:144
+msgid "Topbar Style"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1491
+msgid "Translate Y"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1556
+msgid "Translate Y on Hover"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:187
+msgid "Transparent color"
+msgstr ""
+
+#: app/Controllers/PostMetaController.php:177
+msgid "Transparent Header"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:708
+msgid ""
+"Trust The Grounds Guys professionals to take care of your <br> commercial or "
+"residential grounds"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:44 app/Elementor/Widgets/Team.php:196
+msgid "Twitter"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:79
+msgid "Type"
+msgstr ""
+
+#: app/Elementor/Widgets/Post.php:691
+msgid "Type your title here"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:265
+#: app/Elementor/Widgets/MenuIcons.php:205
+msgid "Typo"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:184 app/Elementor/Widgets/Slider.php:1741
+#: app/Elementor/Widgets/ListingCategoryBox.php:614
+#: app/Elementor/Widgets/Title.php:180 app/Elementor/Widgets/Title.php:285
+#: app/Elementor/Widgets/Title.php:320 app/Elementor/Widgets/Title.php:464
+#: app/Elementor/Widgets/InfoBox.php:755 app/Elementor/Widgets/InfoBox.php:844
+#: app/Elementor/Widgets/InfoBox.php:1031
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:234
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:269
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:415
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:613
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:653
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:705
+#: app/Elementor/Widgets/Testimonial.php:799
+#: app/Elementor/Widgets/Testimonial.php:906
+#: app/Elementor/Widgets/PricingTable.php:354
+#: app/Elementor/Widgets/PricingTable.php:438
+#: app/Elementor/Widgets/PricingTable.php:497
+#: app/Elementor/Widgets/PricingTable.php:628
+#: app/Elementor/Widgets/PricingTable.php:713
+#: app/Elementor/Widgets/PricingTable.php:805
+#: app/Elementor/Widgets/PricingTable.php:862
+#: app/Elementor/Widgets/MenuIcons.php:382
+#: app/Elementor/Widgets/ContactBox.php:755
+#: app/Elementor/Widgets/ContactBox.php:844
+#: app/Elementor/Widgets/ContactBox.php:1115 app/Elementor/Widgets/Faq.php:255
+#: app/Elementor/Widgets/Faq.php:304 app/Elementor/Widgets/SiteLogo.php:154
+#: app/Elementor/Widgets/AboutWidget.php:181
+#: app/Elementor/Widgets/AboutWidget.php:216
+#: app/Elementor/Widgets/AboutWidget.php:362
+#: app/Elementor/Widgets/WritingTitle.php:243
+#: app/Elementor/Widgets/WritingTitle.php:302
+#: app/Elementor/Widgets/WritingTitle.php:337
+#: app/Elementor/Widgets/WritingTitle.php:481
+msgid "Typography"
+msgstr ""
+
+#: app/Elementor/Widgets/SocialIcon.php:54
+msgid "URL(optional)"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:810
+msgid "User Image"
+msgstr ""
+
+#: app/Widgets/Listing_Search_Widget.php:138
+#: app/Elementor/Widgets/Slider.php:1523
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:73
+#: app/Elementor/Widgets/SocialShare.php:120
+msgid "Vertical"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:63
+#: app/Elementor/Widgets/VideoIcon.php:357
+msgid "Video Image"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:81
+msgid "Video URL"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:161
+msgid "View"
+msgstr ""
+
+#: app/Controllers/ElmentorBuilderController.php:69
+msgid "View Template"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:46
+msgid "Vimeo"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoryBox.php:187
+#: app/Elementor/Widgets/ListingLocationsSlider.php:153
+#: app/Elementor/Widgets/ListingCategoriesSlider.php:170
+msgid "Visibility"
+msgstr ""
+
+#: app/Elementor/Widgets/ListingCategoriesFilter.php:349
+msgid "Visibility Settings"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:939 app/Elementor/Widgets/Post.php:280
+#: app/Elementor/Widgets/Post.php:452 app/Elementor/Widgets/Post.php:672
+#: app/Elementor/Widgets/ContactBox.php:1023
+msgid "Visible"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:230
+msgid "Visible on hover"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:86
+msgid "Warning"
+msgstr ""
+
+#: app/Elementor/Widgets/ProgressBar.php:153
+#: app/Elementor/Widgets/Testimonial.php:177
+msgid "Web Designer"
+msgstr ""
+
+#: app/Widgets/Contact_Widget.php:61
+msgid "Website"
+msgstr ""
+
+#: app/Elementor/Widgets/InfoBox.php:293 app/Elementor/Widgets/InfoBox.php:563
+#: app/Elementor/Widgets/Testimonial.php:677
+#: app/Elementor/Widgets/ContactBox.php:284
+#: app/Elementor/Widgets/ContactBox.php:563 app/Elementor/Widgets/Faq.php:326
+msgid "Width"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:323
+msgid "Width / Height"
+msgstr ""
+
+#: app/Helper/FnsBuilder.php:30
+msgid "WooCommerce Shop Page"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:171
+msgid "WordPress Developer"
+msgstr ""
+
+#: app/Elementor/Widgets/VideoIcon.php:110
+msgid "Wrapper Height"
+msgstr ""
+
+#: app/Elementor/Widgets/Title.php:580
+#: app/Elementor/Widgets/WritingTitle.php:597
+msgid "Wrapper Margin"
+msgstr ""
+
+#: app/Elementor/Widgets/Parallax.php:252
+msgid "Wrapper Width"
+msgstr ""
+
+#: app/Elementor/Widgets/WritingTitle.php:22
+msgid "Writing Title"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1022
+msgid "X Position"
+msgstr ""
+
+#: app/Elementor/Widgets/PricingTable.php:1042
+msgid "Y Position"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:1371 app/Elementor/Widgets/Slider.php:1538
+#: app/Elementor/Widgets/Slider.php:1552 app/Elementor/Widgets/Slider.php:1569
+#: app/Elementor/Widgets/Slider.php:1627 app/Elementor/Widgets/Slider.php:1712
+#: app/Elementor/Widgets/ListingCategoryBox.php:172
+#: app/Elementor/Widgets/InfoBox.php:1270
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:84
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:96
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:108
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:132
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:144
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:156
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:168
+#: app/Elementor/Widgets/ListingAdvancedSearch.php:180
+#: app/Elementor/Widgets/Testimonial.php:321
+#: app/Elementor/Widgets/Testimonial.php:334
+#: app/Elementor/Widgets/Testimonial.php:363
+#: app/Elementor/Widgets/PricingTable.php:112
+#: app/Elementor/Widgets/PricingTable.php:124
+#: app/Elementor/Widgets/ContactBox.php:1292
+msgid "Yes"
+msgstr ""
+
+#: app/Hooks/FilterHooks.php:47
+msgid "Youtube"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:740
+msgid "Zoom In"
+msgstr ""
+
+#: app/Elementor/Widgets/Slider.php:741
+msgid "Zoom Out"
+msgstr ""
+
+#: app/Elementor/Widgets/Testimonial.php:166
+#: app/Elementor/Widgets/Testimonial.php:172
+#: app/Elementor/Widgets/Testimonial.php:178
+msgid ""
+"“ I believe in lifelong learning and kola is an great any more learn as "
+"recommend all my friends “"
+msgstr ""

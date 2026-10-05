@@ -1,0 +1,29 @@
+.rttpg-components-popover,
+.rttpg-panel-control-wrapper {
+	.rttpg-bg-img {
+		.components-base-control {
+			&__field {
+				display: grid;
+				gap: 6px;
+			}
+
+			.rttpg-img-remove-btn,
+			.rttpg-image-avatar {
+				margin-bottom: 0;
+
+				.open-image-button {
+					position: absolute;
+					top: 0;
+					left: 0;
+					bottom: 0;
+					right: 0;
+					width: 100%;
+					height: 100%;
+					background: transparent;
+					border: none;
+					cursor: pointer;
+				}
+			}
+		}
+	}
+}

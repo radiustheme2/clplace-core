@@ -1,0 +1,107 @@
+.rttpg-components-popover,
+.rttpg-panel-control-wrapper {
+	.rttpg-control-field {
+		&.rttpg-cf-styles-wrap {
+			margin-bottom: 16px !important;
+
+			.rttpg-style-list {
+				--row-gap: 10px;
+				--column-gap: 6px;
+				display: grid;
+				row-gap: var(--row-gap);
+				column-gap: var(--column-gap);
+
+				.is-pro {
+					position: relative;
+					.pro-lable {
+						position: absolute;
+						top: 0;
+						right: 0;
+						line-height: 1;
+						background: red;
+						display: inline-block;
+						z-index: 99;
+						padding: 2px 4px 3px;
+						font-size: 10px;
+						font-weight: 600;
+						text-transform: uppercase;
+						color: #fff;
+					}
+					.rttpg-layout {
+						position: relative;
+						border: none;
+						&:after {
+							content: '';
+							position: absolute;
+							top: 0;
+							right: 0;
+							left: 0;
+							bottom: 0;
+							background: rgba(0, 0, 0, .25);
+							z-index: 1;
+						}
+					}
+				}
+
+				> div {
+					--row-gap: 6px;
+					--column-gap: 6px;
+					display: grid;
+					row-gap: var(--row-gap);
+					column-gap: var(--column-gap);
+					text-align: center;
+					cursor: pointer;
+					overflow: hidden;
+
+					.rttpg-layout {
+						display: block;
+						border: 2px solid var(--rttpg-admin-color-border);
+						border-radius: 0;
+						transition: var(--rttpg-admin-transition);
+						overflow: hidden;
+						height: 51px;
+
+						img {
+							display: block;
+							width: 100%;
+						}
+					}
+
+					.rttpg-style-icon,
+					.rttpg-style-svg,
+					.rttpg-label {
+						display: block;
+					}
+
+					.rttpg-label {
+						font-size: 12px !important;
+						line-height: 1.3;
+						transition: var(--rttpg-admin-transition);
+					}
+
+					&.rttpg-active {
+						.rttpg-layout {
+							border-color: var(--rttpg-admin-color-primary, #0066ff);
+						}
+
+						.rttpg-label {
+							color: var(--rttpg-admin-color-primary, #0066ff) !important;
+						}
+					}
+				}
+
+				&.rttpg-style-columns-2 {
+					grid-template-columns: repeat(2, 1fr);
+				}
+
+				&.rttpg-style-columns-3 {
+					grid-template-columns: repeat(3, 1fr);
+				}
+
+				&.rttpg-style-columns-4 {
+					grid-template-columns: repeat(4, 1fr);
+				}
+			}
+		}
+	}
+}

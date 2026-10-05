@@ -1,0 +1,81 @@
+.rttpg-components-popover,
+.rttpg-panel-control-wrapper {
+	.rttpg-device {
+		&-switcher {
+			color: #a4afb7;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			position: relative;
+			z-index: 2;
+			cursor: pointer;
+			height: 0;
+			transform: scale(0);
+			opacity: 0;
+			transition: 0.15s;
+			font-size: 11px;
+
+			i {
+				font-size: inherit;
+			}
+
+			&.active {
+				height: 24px;
+				transform: scale(1);
+				opacity: 1;
+			}
+		}
+
+		&-switchers {
+			position: relative;
+			width: 24px;
+			height: 24px;
+
+			&-wrap {
+				position: absolute;
+				width: 100%;
+				top: 1px;
+				color: #e0e1e3;
+				z-index: 44;
+			}
+
+			&-open {
+				.rttpg-device-switchers-wrap {
+					box-shadow: 0 0 20px 0 rgb(0 0 0 / 25%);
+					background: #ffffff;
+					border-radius: 2px;
+				}
+
+				&.active-md {
+					.rttpg-device-switchers-wrap {
+						top: 0;
+					}
+				}
+
+				&.active-sm {
+					.rttpg-device-switchers-wrap {
+						top: 0;
+					}
+				}
+
+				&.active-xs {
+					.rttpg-device-switchers-wrap {
+						top: 0;
+					}
+				}
+
+				.rttpg-device-switcher {
+					height: 24px;
+					transform: scale(1);
+					opacity: 1;
+				}
+			}
+		}
+
+
+	}
+}
+
+.rttpg-device-switchers-open .rttpg-device-switcher.active {
+	color: var(--rttpg-admin-color-primary, #0066ff)
+}

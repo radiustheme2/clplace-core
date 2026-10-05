@@ -1,0 +1,40 @@
+.rttpg-components-popover,
+.rttpg-panel-control-wrapper {
+	.rttpg-control-field {
+		&.rttpg-cf-typography-wrap {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+
+			.components-button {
+				font-size: var(--rttpg-admin-text-base, 14px);
+				height: 28px !important;
+				width: 28px !important;
+				padding: 0;
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				border: 1px solid #d5dadf;
+				background: transparent;
+				border-radius: 3px;
+				color: var(--rttpg-admin-color-primary, #0066ff);
+
+				> span {
+					transition: unset;
+					line-height: 1;
+					height: 22px;
+				}
+
+				&:hover {
+					color: var(--rttpg-admin-color-white, #fff);
+					background-color: var(--rttpg-admin-color-primary, #0066ff);
+				}
+			}
+		}
+	}
+
+	.rttpg-typography-content {
+		min-width: 230px;
+		padding: 5px 6px;
+	}
+}

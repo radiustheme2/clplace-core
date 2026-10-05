@@ -1,0 +1,22 @@
+.rttpg-media {
+	margin-bottom: 15px;
+
+	label {
+		margin-bottom: 10px;
+		display: block;
+		font-weight: 500;
+	}
+
+	.rttpg-single-img {
+		.rttpg-media-image-parent {
+			position: relative;
+			display: inline-block;
+			min-height: 140px;
+			min-width: 140px;
+
+			img {
+				margin: 0;
+			}
+		}
+	}
+}
