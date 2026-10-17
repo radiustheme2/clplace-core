@@ -3,7 +3,7 @@
 Plugin Name: Clplace Core
 Plugin URI: https://www.radiustheme.com
 Description: Clplace Theme Core Plugin
-Version: 1.2.0
+Version: 1.2.1
 Author: RadiusTheme
 Author URI: https://www.radiustheme.com
 Text Domain: clplace-core
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if ( ! defined( 'CLPLACE_CORE' ) ) {
-	define( 'CLPLACE_CORE', '1.2.0' );
+	define( 'CLPLACE_CORE', '1.2.1' );
 	define( 'CLPLACE_ITEM', 'rt1224' );
 	define( 'CLPLACE_CORE_PREFIX', 'clplace' );
 	define( 'CLPLACE_CORE_BASE_URL', plugin_dir_url( __FILE__ ) );
